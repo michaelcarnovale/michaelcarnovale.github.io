@@ -1,5 +1,5 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Michael Carnovale"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 image: "files/images/placeholder4.JPG"
 page-navigation: false
@@ -13,11 +13,11 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
+      text: LinkedIn
       href: https://www.github.com
       target: _blank
     - icon: globe
-      text: Uprofile
+      text: GitHub
       href: https://baruch.cuny.edu
       target: _blank
     - icon: envelope
@@ -31,7 +31,7 @@ about:
       text: YouTube
       href: https://www.youtube.com     
       target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+    - text: "OSF"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org
       target: _blank
     - text: "{{< ai clarivate >}} Web of Science"
@@ -43,9 +43,9 @@ about:
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net
+      target: _blank
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
@@ -67,31 +67,8 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+This is a test of a full sentence to see if it turns out to be center justified or something else.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
-
-## Experience
-
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
 
 :::
 

@@ -23,6 +23,8 @@ website:
         href: publications.qmd                       
       - text: Teaching 
         href: teaching.qmd
+      - text: Critical Psychometrics Reading
+        href: critpsychometrics.qmd
         
     #right: 
      # - text: CV

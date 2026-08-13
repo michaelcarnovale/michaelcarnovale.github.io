@@ -1,7 +1,7 @@
 ---
 title: "Michael Carnovale"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+description-meta: ""
+image: "files/images/download.png"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -10,74 +10,71 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 75%
   links:
-    - icon: sun
-      text: LinkedIn
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: GitHub
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
+      text: Email
+      href: mailto:michael.carnovale@mail.utoronto.ca
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.ca/citations?user=y7TfuAsAAAAJ&hl=en
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/michaelcarnovale
+      target: _blank
+    - text: "{{< ai osf >}} OSF"   
+      href: https://osf.io/adpyn/
+      target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "OSF"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/michael-carnovale/
       target: _blank
     - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net
+      href: https://www.researchgate.net/profile/Michael-Carnovale
       target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
+
+
+#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+ # - id: recent-posts
+  #  contents: 
+   #   - posts
+    #  - posts/post-links.yml
+    #exclude:
+     # title: ""
+   # type: grid
+   # max-items: 3
 #    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+   # page-size: 3 #set same as max-times to remove the page number setting
+   # fields: [image, date, title, subtitle]
+   ## max-description-length: 75
+   # sort: 
+    #  - "date desc"
+     # - "title asc"
 ---
 
 :::{#hero-heading}
 
-This is a test of a full sentence to see if it turns out to be center justified or something else.
+I'm a PhD student in Psychology at the [University of Toronto](https://www.psych.utoronto.ca/graduate), supervised by [Dr. Anthony Ruocco](https://www.utsc.utoronto.ca/psych/person/anthony-c-ruocco) in the [Clinical Neurosciences Laboratory](clinicalneurosciences.ca).
 
+My research is focused on examining **psychological measurement** (AKA *psychometrics*) through a critical lens and through traditional approaches, with respect to **mental health** and **personality** attributes. I'm interested in evaluating existing psychological measurement procedures and assumptions, clarifying the mechanisms involved in such measurement, and exploring potential improvements. Questions include:
+
+- What exactly are we measuring with psychological scales and how? 
+- How should we measure psychological attributes?
+- What utility can psychological measurement provide?
+
+I'm also interested in teaching and have experience teaching statistics as a Course Instructor in the University of Toronto's [Clinical Psychology](https://www.utsc.utoronto.ca/psych/clinical-psychology) program, as well as experience providing statistical consulting to researchers.
+
+You can read more about my research and teaching in the other pages of my website. Feel free to contact me through email and thanks for stopping by! 
 
 :::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
+<!-- ## Recent Posts
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
 :::{#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<p align="right">[All Posts »](/posts.qmd)</p> -->

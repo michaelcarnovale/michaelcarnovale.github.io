@@ -4,14 +4,13 @@ page-layout: full
 back-to-top-navigation: true
 title-block-banner: false
 toc-title: "Year"
-engine: knitr
 ---
 
 A list of over 300 scientific articles, chapters, and books that provide critiques of psychometrics (e.g., conceptual, philosophical, statistical). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
 
 If you would like to suggest articles for this list, including important ones I may have missed, please don't hesitate to [contact me](mailto:michael.carnovale@mail.utoronto.ca)!
 
-*Last Updated: `r format(Sys.Date(), "%B %d, %Y")`*
+*Last Updated: Aug 14 2026*
 
 # 1893
 - Scripture, E. W. (1893). Psychological measurements. _The Philosophical Review_, _2_(6), 677-689. [https://doi.org/10.2307/2176022](https://doi.org/10.2307/2176022)

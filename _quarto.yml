@@ -18,12 +18,10 @@ website:
       - text: About
         href: index.qmd 
       - text: Research 
-        href: research.qmd           
-      - text: Publications      
-        href: publications.qmd                       
+        href: research.qmd                           
       - text: Teaching 
         href: teaching.qmd
-      - text: Critical Psychometrics Bibliography
+      - text: Critical Psychometrics 
         href: critpsychometrics.qmd
         
     #right: 

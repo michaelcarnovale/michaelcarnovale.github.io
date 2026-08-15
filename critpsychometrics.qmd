@@ -1,130 +1,142 @@
 ---
-title: "Critical Psychometrics Bibliography"
+title: "Critical Psychometrics Reading List"
 page-layout: full
 back-to-top-navigation: true
 title-block-banner: false
 toc-title: "Year"
+toc-expand: 1
 ---
 
-A list of over 300 scientific articles, chapters, and books that provide critiques of psychometrics (e.g., conceptual, philosophical, statistical). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
+A bibliography of over 300 scientific articles, chapters, and books that provide critiques of psychometrics (e.g., conceptual, philosophical, statistical). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
 
 If you would like to suggest articles for this list, including important ones I may have missed, please don't hesitate to [contact me](mailto:michael.carnovale@mail.utoronto.ca)!
 
 *Last Updated: Aug 14 2026*
 
-# 1893
+---
+
+# 1890s 
+## 1893
 - Scripture, E. W. (1893). Psychological measurements. _The Philosophical Review_, _2_(6), 677-689. [https://doi.org/10.2307/2176022](https://doi.org/10.2307/2176022)
 
-# 1920 
+# 1920s
+## 1920 
 - Boring, E. G. (1920). The logic of the normal law of error in mental measurement. _The American Journal of Psychology_, _31_(1), 1-33. [https://doi.org/10.2307/1413989](https://doi.org/10.2307/1413989) 
 
-# 1930 
+# 1930s
+## 1930 
 - Allport, G. W. (1930). The neurotic personality and traits of self-expression. _The Journal of Social Psychology_, _1_(4), 524-527. [https://doi.org/10.1080/00224545.1930.9714155](https://doi.org/10.1080/00224545.1930.9714155)
 
-# 1932
+## 1932
 - May, M. A. (1932). Problems of measuring character and personality. _The Journal of Social Psychology_, _3_(2), 131-145. [https://doi.org/10.1080/00224545.1932.9919142](https://doi.org/10.1080/00224545.1932.9919142)
 
-# 1934 
+## 1934 
 - Terman, L. M. (1934). The measurement of personality. _Science_, _80_(2087), 605-608. [https://doi.org/10.1126/science.80.2087.605](https://doi.org/10.1126/science.80.2087.605)
 
-# 1935 
+## 1935 
 - Frank, B. (1935). Stability of questionnaire response. _The Journal of Abnormal and Social Psychology_, _30_(3), 320-324. [https://psycnet.apa.org/doi/10.1037/h0059481](https://psycnet.apa.org/doi/10.1037/h0059481)
 
 - McGregor, D. (1935). Scientific measurement and psychology. _Psychological Review_, _42_(3), 246-266. [https://psycnet.apa.org/doi/10.1037/h0053856](https://psycnet.apa.org/doi/10.1037/h0053856)
 
-# 1936 
+## 1936 
 - Kirkpatrick, C. (1936). Assumptions and methods in attitude measurements. _American Sociological Review_, _1_(1), 75-88. [https://doi.org/10.2307/2083866](https://doi.org/10.2307/2083866)
 
-# 1937 
+## 1937 
 - Peatman, J. G. (1937). Hazards and fallacies of statistical method in psychological measurement. _The Psychological Record_, _1_, 365-390. [https://doi.org/10.1007/BF03393206](https://doi.org/10.1007/BF03393206)
 
 - Thurstone, L. L. (1937). Psychology as a quantitative rational science. _Science_, _85_(2201), 227-232. [https://doi.org/10.1126/science.85.2201.227](https://doi.org/10.1126/science.85.2201.227)
 
-# 1939
+## 1939
 - Peatman, J. G. (1939). On the meaning of a test score in psychological measurement. _American Journal of Orthopsychiatry_, _9_(1), 23-47. [https://psycnet.apa.org/doi/10.1111/j.1939-0025.1939.tb05570.x](https://psycnet.apa.org/doi/10.1111/j.1939-0025.1939.tb05570.x)
 
-# 1946
+# 1940s
+## 1946
 - Cronbach, L. J. (1946). Response sets and test validity. _Educational and Psychological Measurement_, _6_(4), 475-494. [https://doi.org/10.1177/001316444600600405](https://doi.org/10.1177/001316444600600405)
 
 - Ellis, A. (1946). The validity of personality questionnaires. _Psychological Bulletin_, _43_(5), 385-440. [https://psycnet.apa.org/doi/10.1037/h0055483](https://psycnet.apa.org/doi/10.1037/h0055483)
 
-# 1949 
+## 1949 
 - Brower, D. (1949). The problem of quantification in psychological science. _Psychological Review_, _56_(6), 325-333. [https://psycnet.apa.org/doi/10.1037/h0061802](https://psycnet.apa.org/doi/10.1037/h0061802)
     - See commentary by Perloff (1950) below
 
-# 1950 
+# 1950s
+## 1950 
 - Comrey, A. L. (1950). An operational approach to some problems in psychological measurement. _Psychological Review_, _57_(4), 217-228. [https://psycnet.apa.org/doi/10.1037/h0061849](https://psycnet.apa.org/doi/10.1037/h0061849)
 
 - Perloff, R. (1950). A note on Brower's "The problem of quantification in psychological science.". _Psychological Review_, _57_(3), 188-192. [https://psycnet.apa.org/doi/10.1037/h0061549](https://psycnet.apa.org/doi/10.1037/h0061549)
 - Suchman, E. A. (1950). The logic of scale construction. _Educational and Psychological Measurement_, _10_(1), 79-93. [https://doi.org/10.1177/001316445001000106](https://doi.org/10.1177/001316445001000106)
 
-# 1951 
+## 1951 
 - Comrey, A. L. (1951). Mental testing and the logic of measurement. _Educational and Psychological Measurement_, _11_(3), 323-334. [https://doi.org/10.1177/001316445101100301](https://doi.org/10.1177/001316445101100301)
 
 - Guilford, J. P., & Comrey, A. L. (1951). Measurement in psychology. In H. Helson (Ed.), _Theoretical Foundations of Psychology_ (pp. 506–556). D Van Nostrand. [https://psycnet.apa.org/doi/10.1037/11432-011](https://psycnet.apa.org/doi/10.1037/11432-011)
 - Weitzenhoffer, A. M. (1951). Mathematical structures and psychological measurements. _Psychometrika_, _16_(4), 387-406. [https://doi.org/10.1007/BF02288802](https://doi.org/10.1007/BF02288802)
 
-# 1954 
+## 1954 
 - Blumer, H. (1956). Sociological analysis and the "variable". _American Sociological Review_, _21_(6), 683-690. [https://doi.org/10.2307/2088418](https://doi.org/10.2307/2088418)
 
 - Butler, J. M. (1954). The use of a psychological model in personality testing. _Educational and Psychological Measurement_, _14_(1), 77-89. [https://doi.org/10.1177/001316445401400106](https://doi.org/10.1177/001316445401400106)
 
-# 1960 
+# 1960s
+## 1960 
 - Krause, M. S. (1960). The validity of ratings. _Psychological Reports_, _7_(1), 71-79. [https://doi.org/10.2466/pr0.1960.7.1.71](https://doi.org/10.2466/pr0.1960.7.1.71)
 
 - Ramul, K. (1960). The problem of measurement in the psychology of the eighteenth century. _American Psychologist_, _15_(4), 256-265. [https://psycnet.apa.org/doi/10.1037/h0047753](https://psycnet.apa.org/doi/10.1037/h0047753)
 
-# 1961
+## 1961
 - Boring, E. G. (1961). The beginning and growth of measurement in psychology. _Isis_, _52_(2), 238-257. <https://www.jstor.org/stable/228681>
 
 - Nelson, T. M., & Bartley, S. H. (1961). Numerosity, number, arithmetization, measurement and psychology. _Philosophy of Science_, _28_(2), 178-203. [https://doi.org/10.1086/287799](https://doi.org/10.1086/287799)
 
-# 1962
+## 1962
 - DuBois, P. H. (1962). On relationships between numbers and behavior. _Psychometrika_, _27_(4), 323-333. [https://doi.org/10.1007/BF02289642](https://doi.org/10.1007/BF02289642)
 
-# 1963 
+## 1963 
 - Fiske, D. W. (1963). Problems In Measuring Personality. In J. M. Wepman & R. W. Heine (Eds.), _Concepts of personality_ (pp. 449–473). Aldine Publishing Co. <https://doi.org/10.1037/11175-016>
 
 - Ramul, K. (1963). Some early measurements and ratings in psychology. _American Psychologist_, _18_(10), 653-659. [https://psycnet.apa.org/doi/10.1037/h0040858](https://psycnet.apa.org/doi/10.1037/h0040858)
 
-# 1973
+# 1970s
+## 1973
 - Fiske, D. W. (1973). Can a personality construct be validated empirically? _Psychological Bulletin_, _80_(2), 89-92. [https://psycnet.apa.org/doi/10.1037/h0034786](https://psycnet.apa.org/doi/10.1037/h0034786)
 
-# 1974
+## 1974
 - Fiske, D. W. (1974). The limits for the conventional science of personality. _Journal of Personality_, _42_(1), 1-11. [https://psycnet.apa.org/doi/10.1111/j.1467-6494.1974.tb00553.x](https://psycnet.apa.org/doi/10.1111/j.1467-6494.1974.tb00553.x)
 
-# 1984 
+# 1980s
+## 1984 
 - McReynolds, P., & Ludwig, K. (1984). Christian Thomasius and the origin of psychological rating scales. _Isis_, _75_(3), 546-553. [https://doi.org/10.1086/353573](https://doi.org/10.1086/353573)
 
-# 1986
+## 1986
 - Michell, J. (1986). Measurement scales and statistics: A clash of paradigms. _Psychological Bulletin_, _100_(3), 398-407. [https://psycnet.apa.org/doi/10.1037/0033-2909.100.3.398](https://psycnet.apa.org/doi/10.1037/0033-2909.100.3.398)
 
-# 1987
+## 1987
 - McReynolds, P., & Ludwig, K. (1987). On the history of rating scales. _Personality and Individual Differences_, _8_(2), 281-283. [https://doi.org/10.1016/0191-8869(87)90188-7](https://doi.org/10.1016/0191-8869(87)90188-7)
 
-# 1989 
+## 1989 
 - Stine, W. W. (1989). Meaningful inference: The role of measurement in statistics. _Psychological Bulletin_, _105_(1), 147-155. [https://psycnet.apa.org/doi/10.1037/0033-2909.105.1.147](https://psycnet.apa.org/doi/10.1037/0033-2909.105.1.147)
 
-# 1990 
+# 1990s
+## 1990 
 - Danziger, K. (1990). _Constructing the subject: Historical origins of psychological research_. Cambridge University Press. <https://doi.org/10.1017/CBO9780511524059>
 
 - Michell, J. (1990). _An introduction to the logic of psychological measurement_. Lawrence Erlbaum Associates, Inc. <https://doi.org/10.4324/9781315807614>
 
-# 1991
+## 1991
 - Schwager, K. W. (1991). The representational theory of measurement: An assessment. _Psychological Bulletin, 110_(3), 618–626. [https://psycnet.apa.org/doi/10.1037/0033-2909.110.3.618](https://psycnet.apa.org/doi/10.1037/0033-2909.110.3.618)
 
-# 1992
+## 1992
 - Cliff, N. (1992). Article Commentary: Abstract Measurement Theory and the Revolution that Never Happened. _Psychological Science_, _3_(3), 186-190. [https://doi.org/10.1111/j.1467-9280.1992.tb00024.x](https://doi.org/10.1111/j.1467-9280.1992.tb00024.x)
 
     - [Naren and Luce (1993) commentary](https://doi.org/10.1111/j.1467-9280.1993.tb00475.x)
 - Green, C. D. (1992). Of immortal mythological beasts: Operationism in psychology. _Theory & Psychology_, _2_(3), 291-320. [https://doi.org/10.1177/0959354392023003](https://doi.org/10.1177/0959354392023003)
 
-# 1994
+## 1994
 - Luce, R. D., & Narens, L. (1994). Fifteen problems concerning the representational theory of measurement. In P. Humphreys (Ed.), _Patrick Suppes: Scientific Philosopher, Vol. 2_ (pp. 219-249). Kluwer Academic Publishers. [PDF](https://sites.socsci.uci.edu/~lnarens/1994/Luce&Narens_Book%20Chapter_1994.pdf)
 
 - Schönemann, P. H. (1994). Measurement: The Reasonable Ineffectiveness of Mathematics in the Social Sciences. In I. Borg & P. Mohler (Ed.), _Trends and Perspectives in Empirical Social Research_ (pp. 149-160). Berlin, New York: De Gruyter. <https://doi.org/10.1515/9783110887617.149>
 
-# 1996 
+## 1996 
 - Maraun, M. D. (1996). Metaphor taken as math: Indeterminancy in the factor analysis model. _Multivariate Behavioral Research_, _31_(4), 517-538. <https://doi.org/10.1207/s15327906mbr3104_6>
 
     - Round 1 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_7), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_8), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_9), [Schonemann](https://doi.org/10.1207/s15327906mbr3104_10), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_11), [McDonald](https://doi.org/10.1207/s15327906mbr3104_12)
@@ -132,13 +144,13 @@ If you would like to suggest articles for this list, including important ones I 
     - Round 2 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_14), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_15), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_16), [Schonemann](https://doi.org/10.1207/s15327906mbr3104_17), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_18), [McDonald](https://doi.org/10.1207/s15327906mbr3104_19)
     - [Second Rejoinder](https://doi.org/10.1207/s15327906mbr3104_20)
 
-# 1997
+## 1997
 - Michell, J. (1997). Quantitative science and the definition of measurement in psychology. _British Journal of Psychology_, _88_(3), 355-383. <https://doi.org/10.1111/j.2044-8295.1997.tb02641.x>
 
     - Commentaries: [Kline](https://doi.org/10.1111/j.2044-8295.1997.tb02642.x), [Laming](https://doi.org/10.1111/j.2044-8295.1997.tb02643.x), [Lovie](https://doi.org/10.1111/j.2044-8295.1997.tb02644.x), [Luce](https://doi.org/10.1111/j.2044-8295.1997.tb02645.x), [Morgan](https://doi.org/10.1111/j.2044-8295.1997.tb02646.x)
     - [Rejoinder](https://doi.org/10.1111/j.2044-8295.1997.tb02647.x)
 
-# 1998
+## 1998
 - Maraun, M. D. (1998). Measurement as a normative practice: Implications of Wittgenstein's philosophy for measurement in psychology. _Theory & Psychology_, _8_(4), 435-461. <https://doi.org/10.1177/0959354398084001>
 
     - Commentaries: [Jost and Gustafson](https://doi.org/10.1177/0959354398084002), [Chow](https://doi.org/10.1177/0959354398084003)
@@ -146,26 +158,27 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Schwarz, N. (1999). Self-reports: How the questions shape the answers. _American Psychologist_, _54_(2), 93-105. <https://psycnet.apa.org/doi/10.1037/0003-066X.54.2.93>
 
-# 1999
+## 1999
 - Essex, C., & Smythe, W. E. (1999). Between numbers and notions: A critique of psychological measurement. _Theory & Psychology_, _9_(6), 739-767. <https://doi.org/10.1177/0959354399096002>
 
 - Michell, J. (1999). _Measurement in psychology: A critical history of a methodological concept_. Cambridge University Press. <https://doi.org/10.1017/CBO9780511490040>
 
-# 2000
+# 2000s 
+## 2000
 - Michell, J. (2000). Normal science, pathological science and psychometrics. _Theory & Psychology_, _10_(5), 639-667. <https://doi.org/10.1177/0959354300105004>
 
     - See 2004 for Borsboom and Mellenbergh commentary and Michell reply
 
-# 2001 
+## 2001 
 - Grace, R. C. (2001). On the failure of operationism. _Theory & Psychology_, _11_(1), 5-33. <https://doi.org/10.1177/0959354301111001>
 
     - Commentaries: [Bickhard](https://doi.org/10.1177/0959354301111002), [Green](https://doi.org/10.1177/0959354301111003), [Leahey](https://doi.org/10.1177/0959354301111004), [Rogers](https://doi.org/10.1177/0959354301111005)
     - [Rejoinder](https://doi.org/10.1177/0959354301111006)
 
-# 2002
+## 2002
 - Borsboom, D., & Mellenbergh, G. J. (2002). True scores, latent variables, and constructs: A comment on Schmidt and Hunter. _Intelligence_, _30_(6), 505-514. <https://doi.org/10.1016/S0160-2896(02)00082-X>
 
-# 2003
+## 2003
 - Barrett, P. (2003). Beyond psychometrics: Measurement, non‐quantitative structure, and applied numerics. _Journal of Managerial Psychology_, _18_(5), 421-439. <https://doi.org/10.1108/02683940310484026>
 
 - Borsboom, D., Mellenbergh, G. J., & van Heerden, J. (2003). The theoretical status of latent variables. _Psychological Review_, _110_(2), 203–219. <https://doi.org/10.1037/0033-295X.110.2.203>
@@ -174,13 +187,13 @@ If you would like to suggest articles for this list, including important ones I 
     - Commentaries: [Martin](https://doi.org/10.1177/0959354303013001760), [Hoshmand](https://doi.org/10.1177/0959354303131003)
     - [Rejoinder](https://doi.org/10.1177/0959354303013001761)
 
-# 2004
+## 2004
 - Borsboom, D., & Mellenbergh, G. J. (2004). Why psychometrics is not pathological: A comment on Michell. _Theory & Psychology_, _14_(1), 105-120. <https://doi.org/10.1177/0959354304040200>
 
 - Borsboom, D., Mellenbergh, G. J., & van Heerden, J. (2004). The Concept of Validity. _Psychological Review_, _111_(4), 1061–1071. <https://doi.org/10.1037/0033-295X.111.4.1061>
 - Michell, J. (2004). Item response models, pathological science and the shape of error: Reply to Borsboom and Mellenbergh. _Theory & Psychology_, _14_(1), 121-129. <https://doi.org/10.1177/0959354304040201>
 
-# 2005
+## 2005
 - Borsboom, D. (2005). _Measuring the Mind: Conceptual Issues in Contemporary Psychometrics_. Cambridge University Press. <https://doi.org/10.1017/CBO9780511490026>
 
 - Feest, U. (2005). Operationism in psychology: What the debate is about, what the debate should be about. _Journal of the History of the Behavioral Sciences_, _41_(2), 131-149. <https://doi.org/10.1002/jhbs.20079>
@@ -191,7 +204,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Wagoner, B., & Valsiner, J. (2005). Rating tasks in psychology: From static ontology to dialogical synthesis of meaning. In A. Gülerce, A. Hofmeister, I. Staeuble, G. Saunders, & J. Kaye (Eds.), _Contemporary theorizing in psychology: Global perspectives_ (pp. 197–213). Captus University Publications. <https://psycnet.apa.org/record/2009-16330-022>
 
-# 2006
+## 2006
 - Borsboom, D. (2006). The attack of the psychometricians. _Psychometrika_, _71_(3), 425-440. <https://doi.org/10.1007/s11336-006-1447-6>
 
     - Commentaries: [Kane](https://doi.org/10.1007/s11336-006-1491-2), [Clark](https://doi.org/10.1007/s11336-006-1500-5), [Sijtsma](https://doi.org/10.1007/s11336-006-1497-9), [Heiser](https://doi.org/10.1007/s11336-006-1501-4)
@@ -199,7 +212,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Michell, J. (2006). Psychophysics, intensive magnitudes, and the psychometricians’ fallacy. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, _37_(3), 414-432. <https://doi.org/10.1016/j.shpsc.2006.06.011>
 
-# 2008
+## 2008
 - Borsboom, D. (2008). Latent Variable Theory. _Measurement: Interdisciplinary Research and Perspectives_, _6_(1–2), 25–53. <https://doi.org/10.1080/15366360802035497>
 
     - Commentaries: [Cervone and Caldwell](https://doi.org/10.1080/15366360802035539), [Haig](https://doi.org/10.1080/15366360802035547), [Hood](https://doi.org/10.1080/15366360802035554), [Howell](https://doi.org/10.1080/15366360802121826), [Kane](https://doi.org/10.1080/15366360802035562), [Kyngdon](https://doi.org/10.1080/15366360802035570), [Maraun and Halpin](https://doi.org/10.1080/15366360802035596), [Rupp](https://doi.org/10.1080/15366360802035612)
@@ -224,7 +237,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Toomela, A. (2008). Variables in psychology: A critique of quantitative psychology. _Integrative Psychological and Behavioral Science_, _42_, 245-265. <https://doi.org/10.1007/s12124-008-9059-6>
 
-# 2009
+## 2009
 - Hood, S. B. (2009). Validity in psychological testing and scientific realism. _Theory & Psychology_, _19_(4), 451-473. <https://doi.org/10.1177/0959354309336320>
 - Michell, J. (2009). Invalidity in validity. In R. W. Lissitz (Ed.), _The concept of validity: Revisions, new directions, and applications_ (pp. 111–133). IAP Information Age Publishing. <https://doi.org/10.1108/978-1-61735-269-020251009>
 
@@ -234,14 +247,15 @@ If you would like to suggest articles for this list, including important ones I 
     - Commentaries: [Kyngdon (2013)](https://doi.org/10.1177/0959354312468221), [Markus and Borsboom (2012)](https://doi.org/10.1177/0959354310381155), [Saint-Mont (2012)](https://doi.org/10.1177/0959354311429997)
     - [Rejoinder](https://doi.org/10.1177/0959354313490451)
 
-# 2010
+# 2010s
+## 2010
 - Butcher, J. N. (2010). Personality assessment from the nineteenth to the early twenty-first century: Past achievements and contemporary challenges. _Annual Review of Clinical Psychology_, _6_, 1-20. <https://doi.org/10.1146/annurev.clinpsy.121208.131420>
 
 - Kemp, S., & Grace, R. C. (2010). When can information from ordinal scale variables be integrated? _Psychological Methods_, _15_(4), 398-412. <https://psycnet.apa.org/doi/10.1037/a0021462>
 - McGrane, J. A. (2010). Are psychological quantities and measurement relevant in the 21st century? _Frontiers in psychology_, _1_, 22. <https://doi.org/10.3389/fpsyg.2010.00022>
 - Toomela, A. (2010). Quantitative methods in psychology: Inevitable and useless. _Frontiers in psychology_, _1_, 29. <https://doi.org/10.3389/fpsyg.2010.00029>
 
-# 2011
+## 2011
 - Bornstein, R. F. (2011). Toward a process-focused model of test score validity: improving psychological assessment in science and practice. _Psychological Assessment_, _23_(2), 532-544. <https://psycnet.apa.org/doi/10.1037/a0022402>
 
 - Humphry, S. M. (2011). The role of the unit in physics and psychometrics. _Measurement: Interdisciplinary Research & Perspectives_, _9_(1), 1-24. <https://psycnet.apa.org/doi/10.1080/15366367.2011.558442>
@@ -251,7 +265,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Kyngdon, A. (2011). Partial orders cannot be measured. _Measurement: Interdisciplinary Research & Perspectives_, _9_(2-3), 159-162. <https://doi.org/10.1080/15366367.2011.603618>
 
-# 2012
+## 2012
 - Krause, M. S. (2012). Measurement validity is fundamentally a matter of definition, not correlation. _Review of General Psychology_, _16_(4), 391-400. <https://doi.org/10.1037/a0027701>
 
 - Michell, J. (2012). Alfred Binet and the concept of heterogeneous orders. _Frontiers in Psychology_, _3_, 261. <https://doi.org/10.3389/fpsyg.2012.00261>
@@ -259,7 +273,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Sijtsma, K. (2012). Psychological measurement between physics and statistics. _Theory & Psychology_, _22_(6), 786-809. <https://doi.org/10.1177/0959354312454353>
 - Vautier, S., Veldhuis, M., Lacot, E., & Matton, N. (2012). The ambiguous utility of psychometrics for the interpretative foundation of socially relevant avatars. _Theory & Psychology_, _22_(6), 810-822. <https://doi.org/10.1177/0959354312450093>
 
-# 2013
+## 2013
 - Angner, E. (2013). Is it possible to measure happiness? The argument from measurability. _European Journal for Philosophy of Science_, _3_(2), 221-240. <https://doi.org/10.1007/s13194-013-0065-2>
 
 - Heene, M. (2013). Additive conjoint measurement and the resistance toward falsifiability in psychology. _Frontiers in Psychology_, _4_, 246. <https://doi.org/10.3389/fpsyg.2013.00246>
@@ -274,16 +288,16 @@ If you would like to suggest articles for this list, including important ones I 
 - Vautier, S. (2013). How to state general qualitative facts in psychology? _Quality & Quantity_, _47_(1), 49-56. <https://doi.org/10.1007/s11135-011-9502-5>
 - Wilson, M. (2013). Using the concept of a measurement system to characterize measurement models used in psychometrics. _Measurement_, _46_(9), 3766-3774. <https://doi.org/10.1016/j.measurement.2013.04.005>
 
-# 2014
+## 2014
 - Ziegler, M., & Vautier, S. (2014). A Farewell, a Welcome, and an Unusual Exchange. _European Journal of Psychological Assessment_, _30_(2), 81–85. <https://doi.org/10.1027/1015-5759/a000203>
 
-# 2016
+## 2016
 - Bringmann, L. F., & Eronen, M. I. (2016). Heating up the measurement debate: What psychologists can learn from the history of physics. _Theory & Psychology_, _26_(1), 27-43. <https://doi.org/10.1177/0959354315617253>
 
 - Cano, S. J., Vosk, T., Pendrill, L. R., & Stenner, A. J. (2016). On trial: The compatibility of measurement in the physical and social sciences. _Journal of Physics: Conference Series_, _772_, 012025. <https://doi.org/10.1088/1742-6596/772/1/012025>
 - Maul, A., Irribarra, D. T., & Wilson, M. (2016). On the philosophical foundations of psychological measurement. _Measurement_, _79_, 311-320. <https://doi.org/10.1016/j.measurement.2015.11.001>
 
-# 2017
+## 2017
 - Buntins, M., Buntins, K., & Eggert, F. (2017). Clarifying the concept of validity: From measurement to everyday language. _Theory & Psychology_, _27_(5), 703-710. <https://doi.org/10.1177/0959354317702256>
 - Feest, U. (2017). Phenomena and objects of research in the cognitive and behavioral sciences. _Philosophy of Science_, _84_(5),
 1165–1176. <https://doi.org/10.1086/694155>
@@ -299,9 +313,11 @@ If you would like to suggest articles for this list, including important ones I 
     - Commentaries: [Halpin](https://doi.org/10.1080/15366367.2017.1367245), [Mari](https://doi.org/10.1080/15366367.2017.1367246), [Sherry](https://doi.org/10.1080/15366367.2017.1367247), [Kane](https://doi.org/10.1080/15366367.2017.1369771), [Irribarra](https://doi.org/10.1080/15366367.2017.1369772), [Fisher Jr.](https://doi.org/10.1080/15366367.2017.1369778), [McGrane and Nowland](https://doi.org/10.1080/15366367.2017.1369783), [Rhemtulla et al.](https://doi.org/10.1080/15366367.2017.1369785), [Duckor](https://doi.org/10.1080/15366367.2017.1369812)
     - [Rejoinder](https://doi.org/10.1080/15366367.2017.1369786)
 
+- Morris, S. D., Grice, J. W., & Cox, R. A. (2017). Scale imposition as quantitative alchemy: Studies on the transitivity of neuroticism ratings. _Basic and Applied Social Psychology_, _39_(1), 1-18. <https://doi.org/10.1080/01973533.2016.1256288>
+
 - Slaney, K. (2017). _Validating psychological constructs: Historical, philosophical, and practical dimensions_. Palgrave Macmillan/Springer Nature. <https://doi.org/10.1057/978-1-137-38523-9>
 
-# 2018
+## 2018
 - Guyon, H., Kop, J. L., Juhel, J., & Falissard, B. (2018). Measurement, ontology, and epistemology: Psychology needs pragmatism-realism. _Theory & Psychology_, _28_(2), 149-171. <https://doi.org/10.1177/0959354318761606>
 - Krause, M. S. (2018). The scientific study of the qualities of individual human lives, rather than of their average quantities in aggregations of lives. _Quality & Quantity_, _52_(3), 1315-1329. <https://doi.org/10.1007/s11135-017-0523-6>
 - Salzberger, T. (2018). Meeting Feynman: Bringing light into the black box of social measurement. _Journal of Physics: Conference Series_, _1065_, 072035. <https://doi.org/10.1088/1742-6596/1065/7/072035>
@@ -309,7 +325,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Suck, R. (2018). The structure of rating scales. _Journal of Mathematical Psychology_, _87_, 98-107. <https://doi.org/10.1016/j.jmp.2018.10.004>
 - Uher, J. (2018). Quantitative data from rating scales: An epistemological and methodological enquiry. _Frontiers in Psychology_, _9_, 2599. <https://doi.org/10.3389/fpsyg.2018.02599>
 
-# 2019
+## 2019
 - Hanfstingl, B. (2019). Should we say goodbye to latent constructs to overcome replication crisis or should we take into account epistemological considerations? _Frontiers in Psychology_, _10_, 1949. <https://doi.org/10.3389/fpsyg.2019.01949>
 - Kampen, J. K. (2019). Reflections on and test of the metrological properties of summated rating, Likert, and other scales based on sums of ordinal variables. _Measurement_, _137_, 428-434. <https://doi.org/10.1016/j.measurement.2019.01.083>
 - Stone, C. (2019). A defense and definition of construct validity in psychology. _Philosophy of Science_, _86_(5), 1250-1261. <https://doi.org/10.1086/705567>
@@ -321,14 +337,16 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Vessonen, E. (2019). Operationalism and realism in psychometrics. _Philosophy Compass_, _14_(10), e12624. <https://doi.org/10.1111/phc3.12624>
 
-# 2020
+# 2020s
+## 2020
 - Eronen, M. I., & Romeijn, J. W. (2020). Philosophy of science and the formalization of psychological theory. _Theory & Psychology_, _30_(6), 786-799. <https://doi.org/10.1177/0959354320969876>
 
 - Flake, J. K., & Fried, E. I. (2020). Measurement schmeasurement: Questionable measurement practices and how to avoid them. _Advances in Methods and Practices in Psychological Science_, _3_(4), 456-465. <https://doi.org/10.1177/2515245920952393>
+- Hohn, R. E. (2021). Intransigence in mainstream thinking about psychological measurement. In J. T. Lamiell & K. L. Slaney (Eds.), _Problematic research practices and inertia in scientific psychology: History, sources, and recommended solutions_ (pp. 39–54). Routledge/Taylor & Francis Group. <https://doi.org/10.4324/9781003124757-4>
 - McGrane, J. A., & Maul, A. (2020). The human sciences, models and metrological mythology. _Measurement_, _152_, 107346. <https://doi.org/10.1016/j.measurement.2019.107346>
 - Michell, J. (2020). Thorndike’s credo: Metaphysics in psychometrics. _Theory & Psychology_, _30_(3), 309-328. <https://doi.org/10.1177/0959354320916251>
 
-# 2021
+## 2021
 - Einola, K., & Alvesson, M. (2021). Behind the numbers: Questioning questionnaires. _Journal of Management Inquiry_, _30_(1), 102-114. <https://doi.org/10.1177/1056492620938139>
 
 - Kemp, S., & Grace, R. C. (2021). Using ordinal scales in psychology. _Methods in Psychology_, _5_, 100054. <https://doi.org/10.1016/j.metip.2021.100054>
@@ -336,6 +354,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Michell, J. (2021). Representational measurement theory: Is its number up?. _Theory & Psychology_, _31_(1), 3-23. <https://doi.org/10.1177/0959354320930817>
 - Runhardt, R. W. (2021). Reactivity in measuring depression. _European Journal for Philosophy of Science_, _11_(77). <https://doi.org/10.1007/s13194-021-00395-0>
 - Tal, E. (2021). Two myths of representational measurement. _Perspectives on Science_, _29_(6), 701-741. <https://doi.org/10.1162/posc_a_00391>
+- Torres Irribarra, D. (2021). _A Pragmatic Perspective of Measurement_. Springer Nature Switzerland AG. <https://doi.org/10.1007/978-3-030-74025-2>
 - Uher, J. (2021). Psychometrics is not measurement: Unraveling a fundamental misconception in quantitative psychology and the complex network of its underlying fallacies. _Journal of Theoretical and Philosophical Psychology_, _41_(1), 58-84. <https://psycnet.apa.org/doi/10.1037/teo0000176>
 
     - Commentaries: [Maraun](https://psycnet.apa.org/doi/10.1037/teo0000188), [Markus](https://psycnet.apa.org/doi/10.1037/teo0000178), [Toomela](https://psycnet.apa.org/doi/10.1037/teo0000185)
@@ -344,7 +363,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Vessonen, E. (2021). Respectful operationalism. _Theory & Psychology_, _31_(1), 84-105. <https://doi.org/10.1177/0959354320945036>
 - Vessonen, E. (2021). Conceptual engineering and operationalism in psychology. _Synthese_, _199_(3), 10615-10637. <https://doi.org/10.1007/s11229-021-03261-x>
 
-# 2022
+## 2022
 - Alexandrova, A., & Fabian, M. (2022). Democratising measurement: Or why thick concepts call for coproduction. _European Journal for Philosophy of Science_, _12_(7). <https://doi.org/10.1007/s13194-021-00437-7>
 
 - Briggs, D. C. (2022). _Historical and conceptual foundations of measurement in the human sciences: Credos and controversies_. Routledge/Taylor & Francis Group. <https://doi.org/10.1201/9780429275326>
@@ -362,7 +381,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Wackers, G., & Schille-Rognmo, M. (2022). Capturing minds: Towards a methods critique of questionnaire-based mental health surveys. _Theory & Psychology_, _32_(5), 754-776. <https://doi.org/10.1177/09593543221104734>
 - Wijsen, L. D., Borsboom, D., & Alexandrova, A. (2022). Values in psychometrics. _Perspectives on Psychological Science_, _17_(3), 788-804. <https://doi.org/10.1177/17456916211014183>
 
-# 2023
+## 2023
 - Bergner, R. M. (2023). Conceptual misunderstandings in mainstream scale construction: suggestions for a better approach to concepts. _Theory & Psychology_, _33_(5), 701-716. <https://doi.org/10.1177/09593543231177696>
 
 - Borgstede, M., & Eggert, F. (2023). Squaring the circle: From latent variables to theory-based measurement. _Theory & Psychology_, 33(1), 118-137. <https://doi.org/10.1177/09593543221127985>
@@ -381,7 +400,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Uher, J. (2023). What's wrong with rating scales? Psychology's replication and confidence crisis cannot be solved without transparency in data generation. _Social and Personality Psychology Compass_, _17_(5), e12740. <https://doi.org/10.1111/spc3.12740>
 - Zhao, K. (2023). Measuring the nonexistent: Validity before measurement. _Philosophy of Science_, _90_(2), 227-244. <https://doi.org/10.1017/psa.2023.3>
 
-# 2024
+## 2024
 - Arnulf, J. K., Olsson, U. H., & Nimon, K. (2024). Measuring the menu, not the food: “Psychometric” data may instead measure “lingometrics” (and miss its greatest potential). _Frontiers in Psychology_, _15_, 1308098. <https://doi.org/10.3389/fpsyg.2024.1308098>
 - Briggs, D. C. (2024). Strive for measurement, set new standards, and try not to be evil. _Journal of Educational and Behavioral Statistics_, _49_(5), 694-701. <https://doi.org/10.3102/10769986241238479>
 
@@ -409,7 +428,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Revelle, W. (2024). The seductive beauty of latent variable models: Or why I don't believe in the Easter Bunny. _Personality and Individual Differences_, _221_, 112552. <https://doi.org/10.1016/j.paid.2024.112552>
 - Slaney, K. L., Graham, M. E., Dhillon, R. S., & Hohn, R. E. (2024). Rhetoric of psychological measurement theory and practice. _Frontiers in Psychology_, _15_, 1374330. <https://doi.org/10.3389/fpsyg.2024.1374330>
 
-# 2025
+## 2025
 - Anvari, F., Alsalti, T., Oehler, L. A., Marion, Z., Hussey, I., Elson, M., & Arslan, R. C. (2025). A fragmented field: Construct and measure proliferation in psychology. _Advances in Methods and Practices in Psychological Science_, _8_(3), 25152459251360642. <https://doi.org/10.1177/25152459251360642>
 
 - Betzler, R. (2025). The problem of isolating and measuring empathy. _History and Philosophy of the Life Sciences_, _47_(52). <https://doi.org/10.1007/s40656-025-00702-5>
@@ -434,7 +453,7 @@ If you would like to suggest articles for this list, including important ones I 
     - [Staller and Koerner (2026) Commentary](https://doi.org/10.3389/fpsyg.2026.1752466)
 - White, M. (2025). A peculiarity in psychological measurement practices. _Psychological Methods_. Advance online publication. <https://psycnet.apa.org/doi/10.1037/met0000731>
 
-# 2026
+## 2026
 - Borgstede, M. (2026). Theory and Measurement: Why Representation Is Not Enough. In: Hutmacher, F., Wendt, A.N. (Eds.) _Theory and Model Building in Psychology_. Palgrave Macmillan, Cham. <https://doi.org/10.1007/978-3-032-01453-5_8>
 - Bringmann, L. F., Guðmundsdóttir, G. R., Schorrlepp, L., Vogelsmeier, L. V., De Smet, M. M., Vrijen, C., ... & Hoemann, K. (2026). Experience sampling methods require more than numbers. _Communications Psychology_, _4_(36). <https://doi.org/10.1038/s44271-026-00416-9>
 

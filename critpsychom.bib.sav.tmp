@@ -443,7 +443,7 @@
 @Article{Fiske_1974,
   author    = {Fiske, Donald W.},
   journal   = {Journal of Personality},
-  title     = {The limits for the conventional science of personality1},
+  title     = {The limits for the conventional science of personality},
   year      = {1974},
   issn      = {1467-6494},
   month     = Mar,
@@ -4209,4 +4209,245 @@
 
  
 @Article{White_2025,
-  author    = {White, Mark}
+  author    = {White, Mark},
+  journal   = {Psychological Methods},
+  title     = {A peculiarity in psychological measurement practices.},
+  year      = {2025},
+  issn      = {1082-989X},
+  month     = Feb,
+  doi       = {10.1037/met0000731},
+  publisher = {American Psychological Association (APA)},
+}
+
+ 
+@Article{Bringmann_2026,
+  author    = {Bringmann, Laura F. and Guðmundsdóttir, Guðrún R. and Schorrlepp, Leonie and Vogelsmeier, Leonie V. D. E. and De Smet, Melissa M. and Vrijen, Charlotte and van Roekel, Eeske and Fritz, Jessica and Chen, Jennifer X. and Kirtley, Olivia and Eronen, Markus I. and Chung, Joanne M. and Stadel, Marie and Hoemann, Katie},
+  journal   = {Communications Psychology},
+  title     = {Experience sampling methods require more than numbers},
+  year      = {2026},
+  issn      = {2731-9121},
+  month     = Feb,
+  number    = {1},
+  volume    = {4},
+  doi       = {10.1038/s44271-026-00416-9},
+  publisher = {Springer Science and Business Media LLC},
+}
+
+ 
+@Article{Fisher_2026,
+  author    = {Fisher, Aaron J.},
+  journal   = {Journal of Psychopathology and Clinical Science},
+  title     = {Constructs should do work: Reply to Forbes (2026), Lorenzo-Luaces and Buss (2026), Markon (2026), and Paulus (2026).},
+  year      = {2026},
+  issn      = {2769-7541},
+  month     = July,
+  number    = {5},
+  pages     = {578--580},
+  volume    = {135},
+  doi       = {10.1037/abn0001133},
+  publisher = {American Psychological Association (APA)},
+}
+
+ 
+@Article{Higgins_2026,
+  author    = {Higgins, Wendy C. and Kaplan, David M. and Gillett, Alexander J. and Sutton, John and Ross, Robert M.},
+  journal   = {Studies in History and Philosophy of Science},
+  title     = {Rethinking psychological measurement: Validity potential versus realised validity},
+  year      = {2026},
+  issn      = {0039-3681},
+  month     = Mar,
+  pages     = {102123},
+  volume    = {116},
+  doi       = {10.1016/j.shpsa.2026.102123},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Lawson_2026,
+  author    = {Lawson, Katherine M. and Bottesini, Julia G. and Khong, Linh D. and Vazire, Simine},
+  journal   = {Advances in Methods and Practices in Psychological Science},
+  title     = {Measurement-Reporting Practices in Social-and-Personality-Psychology Articles},
+  year      = {2026},
+  issn      = {2515-2467},
+  month     = Jan,
+  number    = {1},
+  volume    = {9},
+  doi       = {10.1177/25152459251407612},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{McClimans_2026,
+  author    = {McClimans, Leah},
+  journal   = {Studies in History and Philosophy of Science},
+  title     = {Are patient-centered constructs measurable?},
+  year      = {2026},
+  issn      = {0039-3681},
+  month     = Aug,
+  pages     = {102178},
+  volume    = {118},
+  doi       = {10.1016/j.shpsa.2026.102178},
+  publisher = {Elsevier BV},
+}
+
+ 
+@Article{Michell_2026,
+  author    = {Michell, Joel},
+  journal   = {Philosophy of the Social Sciences},
+  title     = {The Mystery of Missing Psychometric <i>Corpus</i> : The Case of the Technological Cart Before the Scientific Horse},
+  year      = {2026},
+  issn      = {1552-7441},
+  month     = Feb,
+  number    = {3},
+  pages     = {274--300},
+  volume    = {56},
+  doi       = {10.1177/00483931251406107},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Torres_Irribarra_2026,
+  author    = {Torres Irribarra, David and McGrane, Joshua A.},
+  journal   = {Educational Measurement: Issues and Practice},
+  title     = {Grounding Meaning and Warranting Inference in Educational Measurement: Theory, Epistemology, and Practice in Mislevy’s Sociocognitive Framework},
+  year      = {2026},
+  issn      = {1745-3992},
+  month     = May,
+  number    = {2},
+  volume    = {45},
+  doi       = {10.1111/emip.70023},
+  publisher = {Wiley},
+}
+
+ 
+@Article{Hussey_2025,
+  author    = {Hussey, Ian and Alsalti, Taym and Bosco, Frank and Elson, Malte and Arslan, Ruben},
+  journal   = {Advances in Methods and Practices in Psychological Science},
+  title     = {An Aberrant Abundance of Cronbach’s Alpha Values at .70},
+  year      = {2025},
+  issn      = {2515-2467},
+  month     = Jan,
+  number    = {1},
+  volume    = {8},
+  doi       = {10.1177/25152459241287123},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Peters_2024,
+  author    = {Peters, Gjalt-Jorn and Crutzen, Rik},
+  journal   = {Meta-Psychology},
+  title     = {Knowing What We’re Talking About: Facilitating Decentralized, Unequivocal Publication of and Reference to Psychological Construct Definitions and Instructions},
+  year      = {2024},
+  issn      = {2003-2714},
+  month     = Apr,
+  volume    = {8},
+  doi       = {10.15626/mp.2022.3638},
+  publisher = {Linnaeus University},
+}
+
+ 
+@Article{Feest_2017,
+  author    = {Feest, Uljana},
+  journal   = {Philosophy of Science},
+  title     = {Phenomena and Objects of Research in the Cognitive and Behavioral Sciences},
+  year      = {2017},
+  issn      = {1539-767X},
+  month     = Dec,
+  number    = {5},
+  pages     = {1165--1176},
+  volume    = {84},
+  doi       = {10.1086/694155},
+  publisher = {Cambridge University Press (CUP)},
+}
+
+ 
+@Article{Teymoori_2026,
+  author    = {Teymoori, Ali and Trappes, Rose},
+  journal   = {Review of General Psychology},
+  title     = {The Recurrence of Fundamental Questions: A Historical and Philosophical Analysis of Major Disciplinary Crises in Psychology},
+  year      = {2026},
+  issn      = {1939-1552},
+  month     = Jan,
+  number    = {2},
+  pages     = {195--211},
+  volume    = {30},
+  doi       = {10.1177/10892680261421875},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Uher_2025,
+  author    = {Uher, Jana and Arnulf, Jan Ketil and Barrett, Paul T. and Heene, Moritz and Heine, Jörg-Henrik and Martin, Jack and Mazur, Lucas B. and McGann, Marek and Mislevy, Robert J. and Speelman, Craig and Toomela, Aaro and Weber, Ron},
+  journal   = {Frontiers in Psychology},
+  title     = {Psychology’s Questionable Research Fundamentals (QRFs): Key problems in quantitative psychology and psychological measurement beyond Questionable Research Practices (QRPs)},
+  year      = {2025},
+  issn      = {1664-1078},
+  month     = Aug,
+  volume    = {16},
+  doi       = {10.3389/fpsyg.2025.1553028},
+  publisher = {Frontiers Media SA},
+}
+
+ 
+@Article{Staller_2026,
+  author    = {Staller, Mario S. and Koerner, Swen},
+  journal   = {Frontiers in Psychology},
+  title     = {Commentary: Psychology’s Questionable Research Fundamentals (QRFs): key problems in quantitative psychology and psychological measurement beyond Questionable Research Practices (QRPs)},
+  year      = {2026},
+  issn      = {1664-1078},
+  month     = Feb,
+  volume    = {17},
+  doi       = {10.3389/fpsyg.2026.1752466},
+  publisher = {Frontiers Media SA},
+}
+
+ 
+@InBook{Borgstede_2026,
+  author    = {Borgstede, Matthias},
+  pages     = {159--177},
+  publisher = {Springer Nature Switzerland},
+  title     = {Theory and Measurement: Why Representation Is Not Enough},
+  year      = {2026},
+  isbn      = {9783032014535},
+  booktitle = {Theory and Model Building in Psychology},
+  doi       = {10.1007/978-3-032-01453-5_8},
+}
+
+ 
+@Book{Torres_Irribarra_2021,
+  author    = {Torres Irribarra, David},
+  publisher = {Springer International Publishing},
+  title     = {A Pragmatic Perspective of Measurement},
+  year      = {2021},
+  isbn      = {9783030740252},
+  doi       = {10.1007/978-3-030-74025-2},
+  issn      = {2192-8371},
+  journal   = {SpringerBriefs in Psychology},
+}
+
+ 
+@Article{Morris_2016,
+  author    = {Morris, Stefanie Dorough and Grice, James W. and Cox, Ryan A.},
+  journal   = {Basic and Applied Social Psychology},
+  title     = {Scale Imposition as Quantitative Alchemy: Studies on the Transitivity of Neuroticism Ratings},
+  year      = {2017},
+  issn      = {1532-4834},
+  month     = Dec,
+  number    = {1},
+  pages     = {1--18},
+  volume    = {39},
+  doi       = {10.1080/01973533.2016.1256288},
+  publisher = {Informa UK Limited},
+}
+
+ 
+@InBook{Hohn_2020,
+  author    = {Hohn, Richard E.},
+  pages     = {39--54},
+  publisher = {Routledge},
+  title     = {Intransigence in mainstream thinking about psychological measurement},
+  year      = {2020},
+  isbn      = {9781003124757},
+  month     = Sept,
+  booktitle = {Problema

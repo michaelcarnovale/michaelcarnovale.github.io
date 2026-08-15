@@ -55,11 +55,11 @@ about:
 
 :::{#hero-heading}
 
-I'm a PhD student in Psychology at the [University of Toronto](https://www.psych.utoronto.ca/graduate), supervised by [Dr. Anthony Ruocco](https://www.utsc.utoronto.ca/psych/person/anthony-c-ruocco) in the [Clinical Neurosciences Laboratory](clinicalneurosciences.ca).
+I'm a PhD Candidate in Psychology at the [University of Toronto](https://www.psych.utoronto.ca/graduate), supervised by [Dr. Anthony Ruocco](https://www.utsc.utoronto.ca/psych/person/anthony-c-ruocco) in the [Clinical Neurosciences Laboratory](https://clinicalneurosciences.ca/).
 
-My research is focused on examining **psychological measurement** (AKA *psychometrics*) through a critical lens and through traditional approaches, with respect to **mental health** and **personality** attributes. I'm interested in evaluating existing psychological measurement procedures and assumptions, clarifying the mechanisms involved in such measurement, and exploring potential improvements. Questions include:
+My research is focused on examining **psychological measurement** (AKA *psychometrics*) through a critical lens and through traditional approaches, with a particular focus on **mental health** and **personality**. I'm interested in evaluating existing psychological measurement procedures and assumptions, clarifying the mechanisms involved in such measurement, and exploring potential improvements. Questions include:
 
-- What exactly are we measuring with psychological scales and how? 
+- What exactly are we measuring with psychological questionnaires and how? 
 - How should we measure psychological attributes?
 - What utility can psychological measurement provide?
 

@@ -4319,4 +4319,139 @@
   publisher = {Wiley},
 }
 
+ 
+@Article{Hussey_2025,
+  author    = {Hussey, Ian and Alsalti, Taym and Bosco, Frank and Elson, Malte and Arslan, Ruben},
+  journal   = {Advances in Methods and Practices in Psychological Science},
+  title     = {An Aberrant Abundance of Cronbach’s Alpha Values at .70},
+  year      = {2025},
+  issn      = {2515-2467},
+  month     = Jan,
+  number    = {1},
+  volume    = {8},
+  doi       = {10.1177/25152459241287123},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Peters_2024,
+  author    = {Peters, Gjalt-Jorn and Crutzen, Rik},
+  journal   = {Meta-Psychology},
+  title     = {Knowing What We’re Talking About: Facilitating Decentralized, Unequivocal Publication of and Reference to Psychological Construct Definitions and Instructions},
+  year      = {2024},
+  issn      = {2003-2714},
+  month     = Apr,
+  volume    = {8},
+  doi       = {10.15626/mp.2022.3638},
+  publisher = {Linnaeus University},
+}
+
+ 
+@Article{Feest_2017,
+  author    = {Feest, Uljana},
+  journal   = {Philosophy of Science},
+  title     = {Phenomena and Objects of Research in the Cognitive and Behavioral Sciences},
+  year      = {2017},
+  issn      = {1539-767X},
+  month     = Dec,
+  number    = {5},
+  pages     = {1165--1176},
+  volume    = {84},
+  doi       = {10.1086/694155},
+  publisher = {Cambridge University Press (CUP)},
+}
+
+ 
+@Article{Teymoori_2026,
+  author    = {Teymoori, Ali and Trappes, Rose},
+  journal   = {Review of General Psychology},
+  title     = {The Recurrence of Fundamental Questions: A Historical and Philosophical Analysis of Major Disciplinary Crises in Psychology},
+  year      = {2026},
+  issn      = {1939-1552},
+  month     = Jan,
+  number    = {2},
+  pages     = {195--211},
+  volume    = {30},
+  doi       = {10.1177/10892680261421875},
+  publisher = {SAGE Publications},
+}
+
+ 
+@Article{Uher_2025,
+  author    = {Uher, Jana and Arnulf, Jan Ketil and Barrett, Paul T. and Heene, Moritz and Heine, Jörg-Henrik and Martin, Jack and Mazur, Lucas B. and McGann, Marek and Mislevy, Robert J. and Speelman, Craig and Toomela, Aaro and Weber, Ron},
+  journal   = {Frontiers in Psychology},
+  title     = {Psychology’s Questionable Research Fundamentals (QRFs): Key problems in quantitative psychology and psychological measurement beyond Questionable Research Practices (QRPs)},
+  year      = {2025},
+  issn      = {1664-1078},
+  month     = Aug,
+  volume    = {16},
+  doi       = {10.3389/fpsyg.2025.1553028},
+  publisher = {Frontiers Media SA},
+}
+
+ 
+@Article{Staller_2026,
+  author    = {Staller, Mario S. and Koerner, Swen},
+  journal   = {Frontiers in Psychology},
+  title     = {Commentary: Psychology’s Questionable Research Fundamentals (QRFs): key problems in quantitative psychology and psychological measurement beyond Questionable Research Practices (QRPs)},
+  year      = {2026},
+  issn      = {1664-1078},
+  month     = Feb,
+  volume    = {17},
+  doi       = {10.3389/fpsyg.2026.1752466},
+  publisher = {Frontiers Media SA},
+}
+
+ 
+@InBook{Borgstede_2026,
+  author    = {Borgstede, Matthias},
+  pages     = {159--177},
+  publisher = {Springer Nature Switzerland},
+  title     = {Theory and Measurement: Why Representation Is Not Enough},
+  year      = {2026},
+  isbn      = {9783032014535},
+  booktitle = {Theory and Model Building in Psychology},
+  doi       = {10.1007/978-3-032-01453-5_8},
+}
+
+ 
+@Book{Torres_Irribarra_2021,
+  author    = {Torres Irribarra, David},
+  publisher = {Springer International Publishing},
+  title     = {A Pragmatic Perspective of Measurement},
+  year      = {2021},
+  isbn      = {9783030740252},
+  doi       = {10.1007/978-3-030-74025-2},
+  issn      = {2192-8371},
+  journal   = {SpringerBriefs in Psychology},
+}
+
+ 
+@Article{Morris_2016,
+  author    = {Morris, Stefanie Dorough and Grice, James W. and Cox, Ryan A.},
+  journal   = {Basic and Applied Social Psychology},
+  title     = {Scale Imposition as Quantitative Alchemy: Studies on the Transitivity of Neuroticism Ratings},
+  year      = {2017},
+  issn      = {1532-4834},
+  month     = Dec,
+  number    = {1},
+  pages     = {1--18},
+  volume    = {39},
+  doi       = {10.1080/01973533.2016.1256288},
+  publisher = {Informa UK Limited},
+}
+
+ 
+@InBook{Hohn_2020,
+  author    = {Hohn, Richard E.},
+  pages     = {39--54},
+  publisher = {Routledge},
+  title     = {Intransigence in mainstream thinking about psychological measurement},
+  year      = {2020},
+  isbn      = {9781003124757},
+  month     = Sept,
+  booktitle = {Problematic Research Practices and Inertia in Scientific Psychology},
+  doi       = {10.4324/9781003124757-4},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -1,6 +1,9 @@
 ---
 title: "Teaching"
 title-block-banner: false
+page-layout: full
 ---
 
-Coming soon!
+Under construction!
+
+

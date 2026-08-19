@@ -1,6 +1,7 @@
 ---
 title: "Research"
 title-block-banner: false
+page-layout: full
 ---
 
-Coming soon!
+Under construction!

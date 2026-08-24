@@ -7,11 +7,11 @@ toc-title: "Year"
 toc-expand: 1
 ---
 
-A bibliography of over 300 scientific articles, chapters, and books that involve critiques of psychometrics (e.g., conceptual, philosophical, methodological). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
+A bibliography of over 350 scientific articles, chapters, and books that involve critiques of psychometrics (e.g., conceptual, philosophical, methodological). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
 
 If you would like to suggest articles for this list, including important ones I may have missed, please don't hesitate to [contact me](mailto:michael.carnovale@mail.utoronto.ca)!
 
-*Last Updated: Aug 19 2026*
+*Last Updated: Aug 24 2026*
 
 ---
 
@@ -124,6 +124,9 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Ramul, K. (1963). Some early measurements and ratings in psychology. _American Psychologist_, _18_(10), 653-659. [https://psycnet.apa.org/doi/10.1037/h0040858](https://psycnet.apa.org/doi/10.1037/h0040858)
 
+## 1967 
+- Armstrong, J. S. (1967). Derivation of Theory by Means of Factor Analysis or Tom Swift and His Electric Factor Analysis Machine. _The American Statistician_, _21_(5), 17–21. <https://doi.org/10.1080/00031305.1967.10479849>
+
 # 1970s
 ## 1973
 - Fiske, D. W. (1973). Can a personality construct be validated empirically? _Psychological Bulletin_, _80_(2), 89-92. [https://psycnet.apa.org/doi/10.1037/h0034786](https://psycnet.apa.org/doi/10.1037/h0034786)
@@ -135,6 +138,9 @@ If you would like to suggest articles for this list, including important ones I 
 ## 1980 
 - Gaito, J. (1980). Measurement scales and statistics: Resurgence of an old misconception. _Psychological Bulletin_, _87_(3), 564–567. <https://doi.org/10.1037/0033-2909.87.3.564>
     - [Townsend and Ashby Commentary](https://psycnet.apa.org/doi/10.1037/0033-2909.96.2.394)
+
+## 1983 
+- Cliff, N. (1983). Some cautions concerning the application of causal modeling methods. _Multivariate Behavioral Research_, _18_(1), 115-126. <https://doi.org/10.1207/s15327906mbr1801_7>
 
 ## 1984 
 - McReynolds, P., & Ludwig, K. (1984). Christian Thomasius and the origin of psychological rating scales. _Isis_, _75_(3), 546-553. [https://doi.org/10.1086/353573](https://doi.org/10.1086/353573)
@@ -175,6 +181,9 @@ If you would like to suggest articles for this list, including important ones I 
 - Luce, R. D., & Narens, L. (1994). Fifteen problems concerning the representational theory of measurement. In P. Humphreys (Ed.), _Patrick Suppes: Scientific Philosopher, Vol. 2_ (pp. 219-249). Kluwer Academic Publishers. [PDF](https://sites.socsci.uci.edu/~lnarens/1994/Luce&Narens_Book%20Chapter_1994.pdf)
 
 - Schönemann, P. H. (1994). Measurement: The Reasonable Ineffectiveness of Mathematics in the Social Sciences. In I. Borg & P. Mohler (Ed.), _Trends and Perspectives in Empirical Social Research_ (pp. 149-160). Berlin, New York: De Gruyter. <https://doi.org/10.1515/9783110887617.149>
+
+## 1995
+- Block, J. (1995). A contrarian view of the five-factor approach to personality description. _Psychological Bulletin_, _117_(2), _187–215_. <https://doi.org/10.1037/0033-2909.117.2.187>
 
 ## 1996 
 - Maraun, M. D. (1996). Metaphor taken as math: Indeterminancy in the factor analysis model. _Multivariate Behavioral Research_, _31_(4), 517-538. <https://doi.org/10.1207/s15327906mbr3104_6>
@@ -238,6 +247,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Borsboom, D., & Mellenbergh, G. J. (2004). Why psychometrics is not pathological: A comment on Michell. _Theory & Psychology_, _14_(1), 105-120. <https://doi.org/10.1177/0959354304040200>
 
 - Borsboom, D., Mellenbergh, G. J., & van Heerden, J. (2004). The Concept of Validity. _Psychological Review_, _111_(4), 1061–1071. <https://doi.org/10.1037/0033-295X.111.4.1061>
+- Marsh, H. W., Hau, K. T., & Wen, Z. (2004). In search of golden rules: Comment on hypothesis-testing approaches to setting cutoff values for fit indexes and dangers in overgeneralizing Hu and Bentler's (1999) findings. _Structural Equation Modeling_, _11_(3), 320-341. <https://doi.org/10.1207/s15328007sem1103_2>
 - Michell, J. (2004). Item response models, pathological science and the shape of error: Reply to Borsboom and Mellenbergh. _Theory & Psychology_, _14_(1), 121-129. <https://doi.org/10.1177/0959354304040201>
 
 ## 2005
@@ -357,6 +367,8 @@ If you would like to suggest articles for this list, including important ones I 
 - Buntins, M., Buntins, K., & Eggert, F. (2017). Clarifying the concept of validity: From measurement to everyday language. _Theory & Psychology_, _27_(5), 703-710. <https://doi.org/10.1177/0959354317702256>
 - Feest, U. (2017). Phenomena and objects of research in the cognitive and behavioral sciences. _Philosophy of Science_, _84_(5),
 1165–1176. <https://doi.org/10.1086/694155>
+- Fokkema, M., & Greiff, S. (2017). How Performing PCA and CFA on the Same Data Equals Trouble: Overfitting in the Assessment of Internal Structure and Some Editorial Thoughts on It. European Journal of Psychological Assessment, 33(6), 399–402. <https://doi.org/10.1027/1015-5759/a000460>
+- Greiff, S., & Heene, M. (2017). Why Psychological Assessment Needs to Start Worrying About Model Fit. _European Journal of Psychological Assessment_, _33_(5), 313–317. <https://doi.org/10.1027/1015-5759/a000450>
 
 - Humphry, S. M. (2017). Psychological measurement: Theory, paradoxes, and prototypes. _Theory & Psychology_, _27_(3), 407-418. <https://doi.org/10.1177/0959354317699099>
 
@@ -468,6 +480,8 @@ If you would like to suggest articles for this list, including important ones I 
 - de Boer, N. S., & Runhardt, R. W. (2024). Review Essay: Limits of the Numerical and the Personalized Measurement Trend in Mental Health Care. _Philosophy of the Social Sciences_, _54_(5), 442-458. <https://doi.org/10.1177/00483931241255255>
 - Duque, S. R., Tal, E., & Barbic, S. P. (2024). The role of ethical and social values in psychosocial measurement. _Measurement_, _225_, 113993. <https://doi.org/10.1016/j.measurement.2023.113993>
 - Franco, V. R., Laros, J. A., Wiberg, M., & Bastos, R. V. S. (2024). How to think straight about psychometrics: Improving measurement by identifying its assumptions. _Trends in Psychology_, _32_(3), 786-806. <https://doi.org/10.1007/s43076-022-00183-6>
+- Goretzko, D., Siemund, K., & Sterner, P. (2024). Evaluating model fit of measurement models in confirmatory factor analysis. _Educational and Psychological Measurement_, _84_(1), 123-144. <https://doi.org/10.1177/00131644231163813> [**Thanks to Magnus Johansson for the recommendation**]
+- Groskurth, K., Bluemke, M., & Lechner, C. M. (2024). Why we need to abandon fixed cutoffs for goodness-of-fit indices: An extensive simulation and possible solutions. _Behavior Research Methods_, _56_(4), 3891-3914. <https://doi.org/10.3758/s13428-023-02193-3>
 - Heine, J. H., & Heene, M. (2024). Measurement and Mind: Unveiling the Self-Delusion of Metrification in Psychology. _Measurement: Interdisciplinary Research and Perspectives_, 1-29. <https://doi.org/10.1080/15366367.2024.2329958>
 - Iliescu, D., Greiff, S., Ziegler, M., Nye, C., Geisinger, K., Sellbom, M., ... & Saklofske, D. (2024). Proliferation of measures contributes to advancing psychological science. _Communications Psychology_, _2_(19). <https://doi.org/10.1038/s44271-024-00065-w>
 - Kane, M. T. (2024). Torres Irribarra’s Perspective on Measurement: a Commentary. _Integrative Psychological and Behavioral Science_, _58_(4), 1480-1489. <https://doi.org/10.1007/s12124-021-09650-8>
@@ -482,6 +496,7 @@ If you would like to suggest articles for this list, including important ones I 
 
     - [Sijtsma, Ellis, and Borsboom Commentary](https://doi.org/10.1007/s11336-024-10004-7)
 
+- McNeish, D., & Wolf, M. G. (2024). Direct discrepancy dynamic fit index cutoffs for arbitrary covariance structure models. _Structural Equation Modeling: A Multidisciplinary Journal_, _31_(5), 835-862. <https://doi.org/10.1080/10705511.2024.2308005> [**Thanks to Magnus Johansson for the recommendation**]
 - Paredes, J., & Carré, D. (2024). Looking for a broader mindset in psychometrics: the case for more participatory measurement practices. _Frontiers in Psychology_, _15_, 1389640. <https://doi.org/10.3389/fpsyg.2024.1389640>
 - Peters, G.-J., & Crutzen, R. (2024). Knowing what we’re talking about: Facilitating decentralized, unequivocal publication of and reference to psychological construct definitions and instructions. _Meta-Psychology_, _8_. <https://doi.org/10.15626/MP.2022.3638>
 - Ramminger, J. J., & Jacobs, N. (2024). Primacy of theory? Exploring perspectives on validity in conceptual psychometrics. _Frontiers in Psychology_, _15_, 1383622. <https://doi.org/10.3389/fpsyg.2024.1383622>
@@ -518,6 +533,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Bringmann, L. F., Guðmundsdóttir, G. R., Schorrlepp, L., Vogelsmeier, L. V., De Smet, M. M., Vrijen, C., ... & Hoemann, K. (2026). Experience sampling methods require more than numbers. _Communications Psychology_, _4_(36). <https://doi.org/10.1038/s44271-026-00416-9>
 
 - Fisher, A. J. (2026). Constructs should do work: Reply to Forbes (2026), Lorenzo-Luaces and Buss (2026), Markon (2026), and Paulus (2026). _Journal of Psychopathology and Clinical Science_, _135_(5), 578–580. <https://doi.org/10.1037/abn0001133>
+- Goretzko, D., & Wetzel, E. (2026). Stop Using Fixed Cutoffs to Evaluate Latent Variable Models! _European Journal of Psychological Assessment_, _42_(2), 77–82. <https://doi.org/10.1027/1015-5759/a000943>
 - Higgins, W. C., Kaplan, D. M., Gillett, A. J., Sutton, J., & Ross, R. M. (2026). Rethinking psychological measurement: Validity potential versus realised validity. _Studies in History and Philosophy of Science_, _116_, 102123. <https://doi.org/10.1016/j.shpsa.2026.102123>
 - Lawson, K. M., Bottesini, J. G., Khong, L. D., & Vazire, S. (2026). Measurement-Reporting Practices in Social-and-Personality-Psychology Articles. _Advances in Methods and Practices in Psychological Science_, _9_(1), 25152459251407612. <https://doi.org/10.1177/25152459251407612>
 - McClimans, L. (2026). Are patient-centered constructs measurable? _Studies in History and Philosophy of Science_, _118_, 102178. <https://doi.org/10.1016/j.shpsa.2026.102178>

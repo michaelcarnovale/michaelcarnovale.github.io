@@ -5,13 +5,14 @@ back-to-top-navigation: true
 title-block-banner: false
 toc-title: "Year"
 toc-expand: 1
+license: CC0
 ---
 
 A bibliography of over 350 scientific articles, chapters, and books that involve critiques of psychometrics (e.g., conceptual, philosophical, methodological). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
 
 If you would like to suggest articles for this list, including important ones I may have missed, please don't hesitate to [contact me](mailto:michael.carnovale@mail.utoronto.ca)!
 
-*Last Updated: Aug 24 2026*
+*Last Updated: Aug 25 2026*
 
 ---
 
@@ -26,7 +27,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Ruml, B. (1920). The need for an examination of certain hypotheses in mental tests. _The Journal of Philosophy, Psychology and Scientific Methods_, _17_(3), 57-61. <https://doi.org/10.2307/2940628>
 
 ## 1921
-- Boring, E. G. (1921). The stimulus-error. The American Journal of Psychology, 32(4), 449-471. <https://doi.org/10.2307/1413768>
+- Boring, E. G. (1921). The stimulus-error. _The American Journal of Psychology_, _32_(4), 449-471. <https://doi.org/10.2307/1413768>
 
 # 1930s
 ## 1930 
@@ -120,7 +121,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Meissner, W. W. (1962). The problem of psychophysics: Bergson's critique. _The Journal of General Psychology_, _66_(2), 301-309. <https://doi.org/10.1080/00221309.1962.9711843>
 
 ## 1963 
-- Fiske, D. W. (1963). Problems In Measuring Personality. In J. M. Wepman & R. W. Heine (Eds.), _Concepts of personality_ (pp. 449–473). Aldine Publishing Co. <https://doi.org/10.1037/11175-016>
+- Fiske, D. W. (1963). Problems In Measuring Personality. In J. M. Wepman & R. W. Heine (Eds.), _Concepts of Personality_ (pp. 449–473). Aldine Publishing Co. <https://doi.org/10.1037/11175-016>
 
 - Ramul, K. (1963). Some early measurements and ratings in psychology. _American Psychologist_, _18_(10), 653-659. [https://psycnet.apa.org/doi/10.1037/h0040858](https://psycnet.apa.org/doi/10.1037/h0040858)
 
@@ -193,7 +194,7 @@ If you would like to suggest articles for this list, including important ones I 
     - Round 2 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_14), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_15), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_16), [Schonemann](https://doi.org/10.1207/s15327906mbr3104_17), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_18), [McDonald](https://doi.org/10.1207/s15327906mbr3104_19)
     - [Second Rejoinder](https://doi.org/10.1207/s15327906mbr3104_20)
 
-- Tryon, W. W. (1996). Measurement units and theory construction. The journal of mind and behavior, 213-227. <https://www.jstor.org/stable/43854138>
+- Tryon, W. W. (1996). Measurement units and theory construction. _The Journal of Mind and Behavior_, _17_(3), 213-227. <https://www.jstor.org/stable/43854138>
 
     - [Löker Commentary](https://www.jstor.org/stable/43853893)
     - [Tryon Reply](https://www.jstor.org/stable/43853894)
@@ -247,7 +248,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Borsboom, D., & Mellenbergh, G. J. (2004). Why psychometrics is not pathological: A comment on Michell. _Theory & Psychology_, _14_(1), 105-120. <https://doi.org/10.1177/0959354304040200>
 
 - Borsboom, D., Mellenbergh, G. J., & van Heerden, J. (2004). The Concept of Validity. _Psychological Review_, _111_(4), 1061–1071. <https://doi.org/10.1037/0033-295X.111.4.1061>
-- Marsh, H. W., Hau, K. T., & Wen, Z. (2004). In search of golden rules: Comment on hypothesis-testing approaches to setting cutoff values for fit indexes and dangers in overgeneralizing Hu and Bentler's (1999) findings. _Structural Equation Modeling_, _11_(3), 320-341. <https://doi.org/10.1207/s15328007sem1103_2>
+- Marsh, H. W., Hau, K. T., & Wen, Z. (2004). In search of golden rules: Comment on hypothesis-testing approaches to setting cutoff values for fit indexes and dangers in overgeneralizing Hu and Bentler's (1999) findings. _Structural Equation Modeling: A Multidisciplinary Journal_, _11_(3), 320-341. <https://doi.org/10.1207/s15328007sem1103_2>
 - Michell, J. (2004). Item response models, pathological science and the shape of error: Reply to Borsboom and Mellenbergh. _Theory & Psychology_, _14_(1), 121-129. <https://doi.org/10.1177/0959354304040201>
 
 ## 2005
@@ -267,7 +268,7 @@ If you would like to suggest articles for this list, including important ones I 
     - Commentaries: [Kane](https://doi.org/10.1007/s11336-006-1491-2), [Clark](https://doi.org/10.1007/s11336-006-1500-5), [Sijtsma](https://doi.org/10.1007/s11336-006-1497-9), [Heiser](https://doi.org/10.1007/s11336-006-1501-4)
     - [Rejoinder](https://doi.org/10.1007/s11336-006-1502-3)
 
-- Matheson, G. (2006). Intervals and ratios: the invariantive transformations of Stanley Smith Stevens. History of the human sciences, 19(3), 65-81. <https://doi.org/10.1177/0952695106066542>
+- Matheson, G. (2006). Intervals and ratios: the invariantive transformations of Stanley Smith Stevens. _History of the Human Sciences_, _19_(3), 65-81. <https://doi.org/10.1177/0952695106066542>
 - Michell, J. (2006). Psychophysics, intensive magnitudes, and the psychometricians’ fallacy. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, _37_(3), 414-432. <https://doi.org/10.1016/j.shpsc.2006.06.011>
 - Sturm, T. (2006). Is there a problem with mathematical psychology in the eighteenth century? A fresh look at Kant's old argument. _Journal of the History of the Behavioral Sciences_, _42_(4), 353-377. <https://doi.org/10.1002/jhbs.20191>
 
@@ -312,8 +313,8 @@ If you would like to suggest articles for this list, including important ones I 
 - Butcher, J. N. (2010). Personality assessment from the nineteenth to the early twenty-first century: Past achievements and contemporary challenges. _Annual Review of Clinical Psychology_, _6_, 1-20. <https://doi.org/10.1146/annurev.clinpsy.121208.131420>
 
 - Kemp, S., & Grace, R. C. (2010). When can information from ordinal scale variables be integrated? _Psychological Methods_, _15_(4), 398-412. <https://psycnet.apa.org/doi/10.1037/a0021462>
-- McGrane, J. A. (2010). Are psychological quantities and measurement relevant in the 21st century? _Frontiers in psychology_, _1_, 22. <https://doi.org/10.3389/fpsyg.2010.00022>
-- Toomela, A. (2010). Quantitative methods in psychology: Inevitable and useless. _Frontiers in psychology_, _1_, 29. <https://doi.org/10.3389/fpsyg.2010.00029>
+- McGrane, J. A. (2010). Are psychological quantities and measurement relevant in the 21st century? _Frontiers in Psychology_, _1_, 22. <https://doi.org/10.3389/fpsyg.2010.00022>
+- Toomela, A. (2010). Quantitative methods in psychology: Inevitable and useless. _Frontiers in Psychology_, _1_, 29. <https://doi.org/10.3389/fpsyg.2010.00029>
 
 ## 2011
 - Bornstein, R. F. (2011). Toward a process-focused model of test score validity: improving psychological assessment in science and practice. _Psychological Assessment_, _23_(2), 532-544. <https://psycnet.apa.org/doi/10.1037/a0022402>
@@ -492,7 +493,7 @@ If you would like to suggest articles for this list, including important ones I 
 
     - [Staller and Koerner Commentary](https://doi.org/10.3389/fpsyg.2025.1649683)
 
-- McNeish, D. (2024). Practical implications of sum scores being psychometrics’ greatest accomplishment. _psychometrika_, _89_(4), 1148-1169. <https://doi.org/10.1007/s11336-024-09988-z>
+- McNeish, D. (2024). Practical implications of sum scores being psychometrics’ greatest accomplishment. _Psychometrika_, _89_(4), 1148-1169. <https://doi.org/10.1007/s11336-024-09988-z>
 
     - [Sijtsma, Ellis, and Borsboom Commentary](https://doi.org/10.1007/s11336-024-10004-7)
 
@@ -542,5 +543,6 @@ If you would like to suggest articles for this list, including important ones I 
 - Teymoori, A., & Trappes, R. (2026). The recurrence of fundamental questions: A historical and philosophical analysis of major disciplinary crises in psychology. _Review of General Psychology_, _30_(2), 195-211. <https://doi.org/10.1177/10892680261421875>
 - Torres Irribarra, D., & McGrane, J. A. (2026). Grounding Meaning and Warranting Inference in Educational Measurement: Theory, Epistemology, and Practice in Mislevy's Sociocognitive Framework. _Educational Measurement: Issues and Practice_, _45_(2), e70023. <https://doi.org/10.1111/emip.70023>
 
-## In Press
+# In Press & Preprints
 - Philippi, C. L. (In Press). Is quantitative measurement in the human sciences doomed? On the quantity objection. _The British Journal for the Philosophy of Science_. <https://doi.org/10.1086/732604>
+

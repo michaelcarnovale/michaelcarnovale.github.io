@@ -8,11 +8,11 @@ toc-expand: 1
 license: CC0
 ---
 
-A bibliography of over 350 scientific articles, chapters, and books that involve critiques of psychometrics (e.g., conceptual, philosophical, methodological). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
+A bibliography of over 400 scientific articles, chapters, and books that involve critiques of psychometrics (e.g., conceptual, philosophical, methodological). A .bib file for all the references below can be downloaded [here](critpsychom.bib). Organized by year of publication.
 
 If you would like to suggest articles for this list, including important ones I may have missed, please don't hesitate to [contact me](mailto:michael.carnovale@mail.utoronto.ca)!
 
-*Last Updated: Aug 27 2026*
+*Last Updated: Aug 31 2026*
 
 ---
 
@@ -33,6 +33,20 @@ If you would like to suggest articles for this list, including important ones I 
 ## 1921
 - Boring, E. G. (1921). The stimulus-error. _The American Journal of Psychology_, _32_(4), 449-471. <https://doi.org/10.2307/1413768>
 
+- Rugg, H. (1921). Is the rating of human character practicable? _Journal of Educational Psychology_, _12_(9), 485–501. <https://doi.org/10.1037/h0066469>
+
+## 1922
+- Knight, F. B., & Franzen, R. H. (1922). Pitfalls in Rating Schemes. _Journal of Educational Psychology_, _13_(4), 204–213. <https://doi.org/10.1037/h0073817>
+
+- Rugg, H. (1922). Is the rating of human character practicable? _Journal of Educational Psychology_, _13_(1), 30–42. <https://doi.org/10.1037/h0068709>
+    - Distinct from the 1921 article
+
+## 1923 
+- Knight, F. B. (1923). The Effect of the "Acquaintance Factor" upon Personal Judgments. _Journal of Educational Psychology_, _14_(3), 129–142. <https://doi.org/10.1037/h0073148>
+
+## 1927 
+- Guthrie, E. R. (1927). Measuring introversion and extroversion. _The Journal of Abnormal and Social Psychology_, _22_(1), 82–88. <https://doi.org/10.1037/h0070277>
+
 # 1930s
 ## 1930 
 - Allport, G. W. (1930). The neurotic personality and traits of self-expression. _The Journal of Social Psychology_, _1_(4), 524-527. [https://doi.org/10.1080/00224545.1930.9714155](https://doi.org/10.1080/00224545.1930.9714155)
@@ -48,6 +62,7 @@ If you would like to suggest articles for this list, including important ones I 
 ## 1934 
 - Brown, J. F. (1934). A methodological consideration of the problem of psychometrics. _Erkenntnis_, _4_(1), 46-61. <https://doi.org/10.1007/BF01793476> 
 
+- Hendrickson, G. (1934). Some assumptions involved in personality measurement. _The Journal of Experimental Education_, _2_(3), 243-249. <https://doi.org/10.1080/00220973.1934.11009940>
 - Terman, L. M. (1934). The measurement of personality. _Science_, _80_(2087), 605-608. [https://doi.org/10.1126/science.80.2087.605](https://doi.org/10.1126/science.80.2087.605)
 
 ## 1935 
@@ -86,6 +101,9 @@ If you would like to suggest articles for this list, including important ones I 
 
 ## 1944
 - Bergmann, G., & Spence, K. W. (1944). The logic of psychophysical measurement. _Psychological Review_, _51_(1), 1–24. <https://doi.org/10.1037/h0055474>
+
+## 1945 
+- Campbell, A. A. (1945). Two problems in the use of the open question. _The Journal of Abnormal and Social Psychology_, _40_(3), 340–343. <https://doi.org/10.1037/h0053986>
 
 ## 1946
 - Chambers, E. G. (1946). Statistical-Techniques in Applied Psychology. _Biometrika_, _33_(4), 269-273. <https://doi.org/10.2307/2332191>
@@ -196,6 +214,11 @@ If you would like to suggest articles for this list, including important ones I 
 - Danziger, K. (1990). _Constructing the subject: Historical origins of psychological research_. Cambridge University Press. <https://doi.org/10.1017/CBO9780511524059>
 
 - Michell, J. (1990). _An introduction to the logic of psychological measurement_. Lawrence Erlbaum Associates, Inc. <https://doi.org/10.4324/9781315807614>
+- Velicer, W. F., & Jackson, D. N. (1990). Component analysis versus common factor analysis: Some issues in selecting an appropriate procedure. _Multivariate Behavioral Research_, _25_(1), 1-28. <https://doi.org/10.1207/s15327906mbr2501_1>
+
+    - Commentaries: [Loehlin](https://doi.org/10.1207/s15327906mbr2501_2), [Gorsuch](https://doi.org/10.1207/s15327906mbr2501_3), [Steiger](https://doi.org/10.1207/s15327906mbr2501_4), [Schönemann](https://doi.org/10.1207/s15327906mbr2501_5), [Mulaik](https://doi.org/10.1207/s15327906mbr2501_6), [Rozeboom](https://doi.org/10.1207/s15327906mbr2501_7), [Bentler & Kano](https://doi.org/10.1207/s15327906mbr2501_8), [Bookstein](https://doi.org/10.1207/s15327906mbr2501_9), [McArdle](https://doi.org/10.1207/s15327906mbr2501_10), [Widaman](https://doi.org/10.1207/s15327906mbr2501_11)
+    - [Rejoinder](https://doi.org/10.1207/s15327906mbr2501_12)
+    - [Widaman 1993 Commentary](https://doi.org/10.1207/s15327906mbr2803_1)
 
 ## 1991
 - Schwager, K. W. (1991). The representational theory of measurement: An assessment. _Psychological Bulletin, 110_(3), 618–626. [https://psycnet.apa.org/doi/10.1037/0033-2909.110.3.618](https://psycnet.apa.org/doi/10.1037/0033-2909.110.3.618)
@@ -226,9 +249,9 @@ If you would like to suggest articles for this list, including important ones I 
 ## 1996 
 - Maraun, M. D. (1996). Metaphor taken as math: Indeterminancy in the factor analysis model. _Multivariate Behavioral Research_, _31_(4), 517-538. <https://doi.org/10.1207/s15327906mbr3104_6>
 
-    - Round 1 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_7), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_8), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_9), [Schonemann](https://doi.org/10.1207/s15327906mbr3104_10), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_11), [McDonald](https://doi.org/10.1207/s15327906mbr3104_12)
+    - Round 1 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_7), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_8), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_9), [Schönemann](https://doi.org/10.1207/s15327906mbr3104_10), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_11), [McDonald](https://doi.org/10.1207/s15327906mbr3104_12)
     - [First Rejoinder](https://doi.org/10.1207/s15327906mbr3104_13)
-    - Round 2 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_14), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_15), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_16), [Schonemann](https://doi.org/10.1207/s15327906mbr3104_17), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_18), [McDonald](https://doi.org/10.1207/s15327906mbr3104_19)
+    - Round 2 Commentaries: [Steiger](https://doi.org/10.1207/s15327906mbr3104_14), [Bartholomew](https://doi.org/10.1207/s15327906mbr3104_15), [Rozeboom](https://doi.org/10.1207/s15327906mbr3104_16), [Schönemann](https://doi.org/10.1207/s15327906mbr3104_17), [Mulaik](https://doi.org/10.1207/s15327906mbr3104_18), [McDonald](https://doi.org/10.1207/s15327906mbr3104_19)
     - [Second Rejoinder](https://doi.org/10.1207/s15327906mbr3104_20)
 
 - Tryon, W. W. (1996). Measurement units and theory construction. _The Journal of Mind and Behavior_, _17_(3), 213-227. <https://www.jstor.org/stable/43854138>
@@ -354,6 +377,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Kemp, S., & Grace, R. C. (2010). When can information from ordinal scale variables be integrated? _Psychological Methods_, _15_(4), 398-412. <https://psycnet.apa.org/doi/10.1037/a0021462>
 - McGrane, J. A. (2010). Are psychological quantities and measurement relevant in the 21st century? _Frontiers in Psychology_, _1_, 22. <https://doi.org/10.3389/fpsyg.2010.00022>
+- Pace, V. L., & Brannick, M. T. (2010). How similar are personality scales of the “same” construct? A meta-analytic investigation. _Personality and Individual Differences_, _49_(7), 669-676. <https://doi.org/10.1016/j.paid.2010.06.014>
 - Toomela, A. (2010). Quantitative methods in psychology: Inevitable and useless. _Frontiers in Psychology_, _1_, 29. <https://doi.org/10.3389/fpsyg.2010.00029>
 
 ## 2011
@@ -409,6 +433,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Feest, U. (2017). Phenomena and objects of research in the cognitive and behavioral sciences. _Philosophy of Science_, _84_(5),
 1165–1176. <https://doi.org/10.1086/694155>
 - Fokkema, M., & Greiff, S. (2017). How Performing PCA and CFA on the Same Data Equals Trouble: Overfitting in the Assessment of Internal Structure and Some Editorial Thoughts on It. European Journal of Psychological Assessment, 33(6), 399–402. <https://doi.org/10.1027/1015-5759/a000460>
+- Fried, E. I. (2017). The 52 symptoms of major depression: Lack of content overlap among seven common depression scales. _Journal of Affective Disorders_, _208_, 191-197. <https://doi.org/10.1016/j.jad.2016.10.019>
 - Greiff, S., & Heene, M. (2017). Why Psychological Assessment Needs to Start Worrying About Model Fit. _European Journal of Psychological Assessment_, _33_(5), 313–317. <https://doi.org/10.1027/1015-5759/a000450>
 
 - Humphry, S. M. (2017). Psychological measurement: Theory, paradoxes, and prototypes. _Theory & Psychology_, _27_(3), 407-418. <https://doi.org/10.1177/0959354317699099>
@@ -434,6 +459,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Suck, R. (2018). The structure of rating scales. _Journal of Mathematical Psychology_, _87_, 98-107. <https://doi.org/10.1016/j.jmp.2018.10.004>
 - Uher, J. (2018). Quantitative data from rating scales: An epistemological and methodological enquiry. _Frontiers in Psychology_, _9_, 2599. <https://doi.org/10.3389/fpsyg.2018.02599>
+- Widaman, K. F. (2018). On common factor and principal component representations of data: Implications for theory and for confirmatory replications. _Structural Equation Modeling: A Multidisciplinary Journal_, _25_(6), 829-847. <https://doi.org/10.1080/10705511.2018.1478730>
 
 ## 2019
 - Briggs, D. C. (2019). Interpreting and visualizing the unit of measurement in the Rasch Model. _Measurement_, _146_, 961-971. <https://doi.org/10.1016/j.measurement.2019.07.035>
@@ -463,6 +489,7 @@ If you would like to suggest articles for this list, including important ones I 
     - [Widaman and Revelle Reply](https://doi.org/10.1177/00131644231205310)
 
 - Michell, J. (2020). Thorndike’s credo: Metaphysics in psychometrics. _Theory & Psychology_, _30_(3), 309-328. <https://doi.org/10.1177/0959354320916251>
+- Newson, J. J., Hunter, D., & Thiagarajan, T. C. (2020). The heterogeneity of mental health assessment. _Frontiers in Psychiatry_, _11_, 76. <https://doi.org/10.3389/fpsyt.2020.00076>
 - Rhemtulla, M., van Bork, R., & Borsboom, D. (2020). Worse than measurement error: Consequences of inappropriate latent variable measurement models. _Psychological Methods_, _25_(1), 30–45. <https://doi.org/10.1037/met0000220>
 
 ## 2021
@@ -552,11 +579,13 @@ If you would like to suggest articles for this list, including important ones I 
 - Ramminger, J. J., & Jacobs, N. (2024). Primacy of theory? Exploring perspectives on validity in conceptual psychometrics. _Frontiers in Psychology_, _15_, 1383622. <https://doi.org/10.3389/fpsyg.2024.1383622>
 - Revelle, W. (2024). The seductive beauty of latent variable models: Or why I don't believe in the Easter Bunny. _Personality and Individual Differences_, _221_, 112552. <https://doi.org/10.1016/j.paid.2024.112552>
 - Slaney, K. L., Graham, M. E., Dhillon, R. S., & Hohn, R. E. (2024). Rhetoric of psychological measurement theory and practice. _Frontiers in Psychology_, _15_, 1374330. <https://doi.org/10.3389/fpsyg.2024.1374330>
+- Veal, C., Tomlinson, A., Cipriani, A., Bulteau, S., Henry, C., Müh, C., ... & Chevance, A. (2024). Heterogeneity of outcome measures in depression trials and the relevance of the content of outcome measures to patients: a systematic review. _The Lancet Psychiatry_, _11_(4), 285-294. <https://doi.org/10.1016/S2215-0366(23)00438-8>
 
 ## 2025
 - Anvari, F., Alsalti, T., Oehler, L. A., Marion, Z., Hussey, I., Elson, M., & Arslan, R. C. (2025). A fragmented field: Construct and measure proliferation in psychology. _Advances in Methods and Practices in Psychological Science_, _8_(3), 25152459251360642. <https://doi.org/10.1177/25152459251360642>
 
 - Betzler, R. (2025). The problem of isolating and measuring empathy. _History and Philosophy of the Life Sciences_, _47_(52). <https://doi.org/10.1007/s40656-025-00702-5>
+- Boness, C. L., Hebden, H. M., Lardier, D. T., Spurgeon, L., Timmons, A., Simms, L. J., ... & Witkiewitz, K. (2025). Engaging people with lived experience of psychological disorders: Current research and future directions for community-engaged measure development in psychological science. _Clinical Psychological Science_, _13_(4), 720-739. <https://doi.org/10.1177/21677026241304339>
 - Durkee, P. K. (2025). Measuring personality traits: simulations exploring (mis) alignment between methods and measurands. _Journal of Research in Personality_, _116_, 104601. <https://doi.org/10.1016/j.jrp.2025.104601>
 - Eronen, M. I. (2025). Causal complexity and psychological measurement. _Philosophical Psychology_, _38_(5), 2217-2232. <https://doi.org/10.1080/09515089.2023.2300693>
 - Haig, B. D. (2025). Repositioning construct validity theory: From nomological networks to pragmatic theories and their evaluation by explanatory means. _Perspectives on Psychological Science_, _20_(2), 340-356. <https://doi.org/10.1177/17456916231195852>
@@ -566,6 +595,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Isaac, A. M. (2025). Metrological legitimacy and the human sciences. _Studies in History and Philosophy of Science_, _112_, 79-89. <https://doi.org/10.1016/j.shpsa.2025.06.008>
 - Larroulet Philippi, C. (2025). Against Prohibition (Or, When Using Ordinal Scales to Compare Groups Is OK). _The British Journal for the Philosophy of Science_, _76_(4), 953-976. <https://doi.org/10.1086/721759>
 - Leising, D., Borgstede, M., Burger, J., Zimmermann, J., Bäckström, M., Oltmanns, J., ... & Connelly, B. (2025). Why do judgments on different person-descriptive attributes correlate with one another? A conceptual analysis with relevance for most psychometric research. _Collabra: Psychology_, _11_(1), 133683. <https://doi.org/10.1525/collabra.133683>
+- Manapat, P. D., Anderson, S. F., & Edwards, M. C. (2025). Evaluating avoidable heterogeneity in exploratory factor analysis results. _Psychological Methods_, _30_(3), 660–677. <https://doi.org/10.1037/met0000589>
 - Mayo-Wilson, C. (2025). Measured Inference: Scales, Statistics, and Scientific Inference. _Philosophy of Science_, 1-10. <https://doi.org/10.1017/psa.2025.10173>
 - Michell, J. (2025). To psychometrics, from thermometry. _Theory & Psychology_, _35_(5), 537-554. <https://doi.org/10.1177/09593543251355475>
 - Montero-Espinoza, D. (2025). Rethinking psychiatric symptoms: the role of measurement heterogeneity in diagnostic validity. _History and Philosophy of the Life Sciences_, _47_(20). <https://doi.org/10.1007/s40656-025-00659-5>
@@ -573,6 +603,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Pedersen, A. P., Kellen, D., Mayo-Wilson, C., Davis-Stober, C. P., Dunn, J. C., Khan, M. A., ... & Haaf, J. (2025). Discourse on measurement. _Proceedings of the National Academy of Sciences_, _122_(5), e2401229121. <https://doi.org/10.1073/pnas.2401229121>
 - Rizza, D. (2025). Measurement theory in the context of scientific enquiry. _Synthese_, _206_(32). <https://doi.org/10.1007/s11229-025-05109-0>
 - Smith, R. J., & Racine, T. P. (2025). Conceptual limitations in emotion regulation self-report scales. _Theory & Psychology_, _35_(1), 3-16. <https://doi.org/10.1177/09593543241299394>
+- Sprenger, A. A., Harrer, M., Miguel, C., Illing, S., Kuper, P., Buntrock, C., ... & Apfelbacher, C. (2025). Inconsistent outcome measurement in depression psychotherapy trials: A systematic historical and meta-analytic review over the past 50 years. _Journal of Affective Disorders_, 120873. <https://doi.org/10.1016/j.jad.2025.120873>
 - Uher, J., Arnulf, J. K., & Hanfstingl, B. (2025). Critical debates on quantitative psychology and measurement: Revived and novel perspectives on fundamental problems. _Frontiers in Psychology_, _16_, 1661765. <https://doi.org/10.3389/fpsyg.2025.1661765>
 - Uher, J., Arnulf, J. K., Barrett, P. T., Heene, M., Heine, J. H., Martin, J., ... & Weber, R. (2025). Psychology's questionable research fundamentals (QRFs): key problems in quantitative psychology and psychological measurement beyond questionable research practices (QRPs). _Frontiers in Psychology_, _16_, 1553028. <https://doi.org/10.3389/fpsyg.2025.1553028>
     - [Staller and Koerner (2026) Commentary](https://doi.org/10.3389/fpsyg.2026.1752466)

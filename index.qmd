@@ -1,7 +1,7 @@
 ---
 title: "Michael Carnovale"
 description-meta: ""
-image: "files/images/download.png"
+image: "files/images/MC-11F.jpg"
 page-navigation: false
 toc: false
 #sidebar: false

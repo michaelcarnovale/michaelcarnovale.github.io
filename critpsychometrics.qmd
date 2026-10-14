@@ -12,7 +12,7 @@ A bibliography of over 400 scientific articles, chapters, and books that involve
 
 If you would like to suggest articles for this list, including important ones I may have missed, please don't hesitate to [contact me](mailto:michael.carnovale@mail.utoronto.ca)!
 
-*Last Updated: Oct 6 2026*
+*Last Updated: Oct 8 2026*
 
 ---
 
@@ -299,6 +299,9 @@ If you would like to suggest articles for this list, including important ones I 
 
 # 2000s 
 ## 2000
+- Edwards, J. R., & Bagozzi, R. P. (2000). On the nature and direction of relationships between constructs and measures. _Psychological Methods_, _5_(2), 155–174. <https://doi.org/10.1037/1082-989X.5.2.155>
+
+
 - Michell, J. (2000). Normal science, pathological science and psychometrics. _Theory & Psychology_, _10_(5), 639-667. <https://doi.org/10.1177/0959354300105004>
 
     - See 2004 for Borsboom and Mellenbergh commentary and Michell reply
@@ -448,6 +451,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Tafreshi, D., Slaney, K. L., & Neufeld, S. D. (2016). Quantification in psychology: Critical analysis of an unreflective practice. _Journal of Theoretical and Philosophical Psychology_, _36_(4), 233–249. <https://doi.org/10.1037/teo0000048>
 
 ## 2017
+- Bonifay, W., Lane, S. P., & Reise, S. P. (2017). Three concerns with applying a bifactor model as a structure of psychopathology. _Clinical Psychological Science_, _5_(1), 184-186. <https://doi.org/10.1177/2167702616657069>
 - Buntins, M., Buntins, K., & Eggert, F. (2017). Clarifying the concept of validity: From measurement to everyday language. _Theory & Psychology_, _27_(5), 703-710. <https://doi.org/10.1177/0959354317702256>
 - Feest, U. (2017). Phenomena and objects of research in the cognitive and behavioral sciences. _Philosophy of Science_, _84_(5),
 1165–1176. <https://doi.org/10.1086/694155>
@@ -469,6 +473,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Morris, S. D., Grice, J. W., & Cox, R. A. (2017). Scale imposition as quantitative alchemy: Studies on the transitivity of neuroticism ratings. _Basic and Applied Social Psychology_, _39_(1), 1-18. <https://doi.org/10.1080/01973533.2016.1256288>
 
 - Slaney, K. (2017). _Validating psychological constructs: Historical, philosophical, and practical dimensions_. Palgrave Macmillan/Springer Nature. <https://doi.org/10.1057/978-1-137-38523-9>
+- Van Bork, R., Epskamp, S., Rhemtulla, M., Borsboom, D., & van der Maas, H. L. (2017). What is the p-factor of psychopathology? Some risks of general factor modeling. _Theory & Psychology_, _27_(6), 759-773. <https://doi.org/10.1177/0959354317737185>
 
 ## 2018
 - Guyon, H., Kop, J. L., Juhel, J., & Falissard, B. (2018). Measurement, ontology, and epistemology: Psychology needs pragmatism-realism. _Theory & Psychology_, _28_(2), 149-171. <https://doi.org/10.1177/0959354318761606>
@@ -482,6 +487,11 @@ If you would like to suggest articles for this list, including important ones I 
 
 ## 2019
 - Briggs, D. C. (2019). Interpreting and visualizing the unit of measurement in the Rasch Model. _Measurement_, _146_, 961-971. <https://doi.org/10.1016/j.measurement.2019.07.035>
+- Greene, A. L., Eaton, N. R., Li, K., Forbes, M. K., Krueger, R. F., Markon, K. E., ... & Kotov, R. (2019). Are fit indices used to test psychopathology structure biased? A simulation study. _Journal of Abnormal Psychology_, _128_(7), 740-764. <https://psycnet.apa.org/doi/10.1037/abn0000434>
+
+    - [Bader and Moshagen Commentary](https://psycnet.apa.org/doi/10.1037/abn0000685)
+    - [Rejoinder](https://psycnet.apa.org/doi/10.1037/abn0000770)
+
 - Hanfstingl, B. (2019). Should we say goodbye to latent constructs to overcome replication crisis or should we take into account epistemological considerations? _Frontiers in Psychology_, _10_, 1949. <https://doi.org/10.3389/fpsyg.2019.01949>
 - Kampen, J. K. (2019). Reflections on and test of the metrological properties of summated rating, Likert, and other scales based on sums of ordinal variables. _Measurement_, _137_, 428-434. <https://doi.org/10.1016/j.measurement.2019.01.083>
 - Rigdon, E. E., Becker, J. M., & Sarstedt, M. (2019). Factor Indeterminacy as Metrological Uncertainty: Implications for Advancing Psychological Measurement. _Multivariate Behavioral Research_, _54_(3), 429–443. <https://doi.org/10.1080/00273171.2018.1535420>
@@ -493,12 +503,14 @@ If you would like to suggest articles for this list, including important ones I 
     - [Rejoinder](https://doi.org/10.1177/0959354318824414)
 
 - Vessonen, E. (2019). Operationalism and realism in psychometrics. _Philosophy Compass_, _14_(10), e12624. <https://doi.org/10.1111/phc3.12624>
+- Watts, A. L., Poore, H. E., & Waldman, I. D. (2019). Riskier tests of the validity of the bifactor model of psychopathology. _Clinical Psychological Science_, _7_(6), 1285-1303. <https://doi.org/10.1177/2167702619855035>
 
 # 2020s
 ## 2020
 - Eronen, M. I., & Romeijn, J. W. (2020). Philosophy of science and the formalization of psychological theory. _Theory & Psychology_, _30_(6), 786-799. <https://doi.org/10.1177/0959354320969876>
 
 - Flake, J. K., & Fried, E. I. (2020). Measurement schmeasurement: Questionable measurement practices and how to avoid them. _Advances in Methods and Practices in Psychological Science_, _3_(4), 456-465. <https://doi.org/10.1177/2515245920952393>
+- Fried, E. I. (2020). Lack of theory building and testing impedes progress in the factor and network literature. _Psychological Inquiry_, _31_(4), 271-288. <https://doi.org/10.1080/1047840X.2020.1853461>
 - Hohn, R. E. (2021). Intransigence in mainstream thinking about psychological measurement. In J. T. Lamiell & K. L. Slaney (Eds.), _Problematic research practices and inertia in scientific psychology: History, sources, and recommended solutions_ (pp. 39–54). Routledge/Taylor & Francis Group. <https://doi.org/10.4324/9781003124757-4>
 - McGrane, J. A., & Maul, A. (2020). The human sciences, models and metrological mythology. _Measurement_, _152_, 107346. <https://doi.org/10.1016/j.measurement.2019.107346>
 - McNeish, D., & Wolf, M. G. (2020). Thinking twice about sum scores. _Behavior Research Methods_, _52_(6), 2287-2305. <https://doi.org/10.3758/s13428-020-01398-0>
@@ -510,6 +522,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Michell, J. (2020). Thorndike’s credo: Metaphysics in psychometrics. _Theory & Psychology_, _30_(3), 309-328. <https://doi.org/10.1177/0959354320916251>
 - Newson, J. J., Hunter, D., & Thiagarajan, T. C. (2020). The heterogeneity of mental health assessment. _Frontiers in Psychiatry_, _11_, 76. <https://doi.org/10.3389/fpsyt.2020.00076>
 - Rhemtulla, M., van Bork, R., & Borsboom, D. (2020). Worse than measurement error: Consequences of inappropriate latent variable measurement models. _Psychological Methods_, _25_(1), 30–45. <https://doi.org/10.1037/met0000220>
+- Watts, A. L., Lane, S. P., Bonifay, W., Steinley, D., & Meyer, F. A. (2020). Building theories on top of, and not independent of, statistical models: The case of the p-factor. _Psychological Inquiry_, _31_(4), 310-320. <https://doi.org/10.1080/1047840X.2020.1853476>
 
 ## 2021
 - Einola, K., & Alvesson, M. (2021). Behind the numbers: Questioning questionnaires. _Journal of Management Inquiry_, _30_(1), 102-114. <https://doi.org/10.1177/1056492620938139>
@@ -563,6 +576,7 @@ If you would like to suggest articles for this list, including important ones I 
 
 - Elson, M., Hussey, I., Alsalti, T., & Arslan, R. C. (2023). Psychological measures aren’t toothbrushes. _Communications Psychology_, _1_(25). <https://doi.org/10.1038/s44271-023-00026-9>
 - Franz, D. J. (2023). Quantitative research without measurement. Reinterpreting the better-than-average-effect. _New Ideas in Psychology_, _68_, 100976. <https://doi.org/10.1016/j.newideapsych.2022.100976>
+- Greene, A. L., Watts, A. L., Forbes, M. K., Kotov, R., Krueger, R. F., & Eaton, N. R. (2023). Misbegotten methodologies and forgotten lessons from Tom Swift’s electric factor analysis machine: A demonstration with competing structural models of psychopathology. _Psychological Methods_, _28_(6), 1374–1403. <https://doi.org/10.1037/met0000465>
 - Heiser, W.J. (2023). Early Roots of Psychometrics Before Francis Galton. In: van der Ark, L.A., Emons, W.H.M., Meijer, R.R. (eds) _Essays on Contemporary Psychometrics_. Methodology of Educational Measurement and Assessment. Springer, Cham. <https://doi.org/10.1007/978-3-031-10370-4_1>
 - Michell, J. (2023). Professor Spearman has drawn over-hasty conclusions”: Unravelling psychometrics’“Copernican Revolution". _Theory & Psychology_, _33_(5), 661-680. <https://doi.org/10.1177/09593543231179446>
 - Nebel, J. M. (2023). The sum of well-being. _Mind_, _132_(528), 1074-1104. <https://doi.org/10.1093/mind/fzad019>
@@ -603,6 +617,7 @@ If you would like to suggest articles for this list, including important ones I 
 - Slaney, K. L., Graham, M. E., Dhillon, R. S., & Hohn, R. E. (2024). Rhetoric of psychological measurement theory and practice. _Frontiers in Psychology_, _15_, 1374330. <https://doi.org/10.3389/fpsyg.2024.1374330>
 - Tyumeneva, Y., & Sudorgina, Y. (2024). Transitivity in Pairwise Comparisons and the Heterogeneity of Psychological Attributes. _Basic and Applied Social Psychology_, _46_(5), 314-320. <https://doi.org/10.1080/01973533.2024.2369663>
 - Veal, C., Tomlinson, A., Cipriani, A., Bulteau, S., Henry, C., Müh, C., ... & Chevance, A. (2024). Heterogeneity of outcome measures in depression trials and the relevance of the content of outcome measures to patients: a systematic review. _The Lancet Psychiatry_, _11_(4), 285-294. <https://doi.org/10.1016/S2215-0366(23)00438-8>
+- Watts, A. L., Greene, A. L., Bonifay, W., & Fried, E. I. (2024). A critical evaluation of the p-factor literature. _Nature Reviews Psychology_, _3_(2), 108-122. <https://doi.org/10.1038/s44159-023-00260-2>
 
 ## 2025
 - Anvari, F., Alsalti, T., Oehler, L. A., Marion, Z., Hussey, I., Elson, M., & Arslan, R. C. (2025). A fragmented field: Construct and measure proliferation in psychology. _Advances in Methods and Practices in Psychological Science_, _8_(3), 25152459251360642. <https://doi.org/10.1177/25152459251360642>
@@ -651,5 +666,6 @@ If you would like to suggest articles for this list, including important ones I 
 - Basso, A. (Forthcoming). Measurement, operationalization, and phenomena in the social and behavioural sciences. <https://philpapers.org/rec/BASMOA-4>
 
 - Philippi, C. L. (In Press). Is quantitative measurement in the human sciences doomed? On the quantity objection. _The British Journal for the Philosophy of Science_. <https://doi.org/10.1086/732604>
+- Wendt, L. P., & Müller, S. (2026, July 29). Why Conventional Practices in Construct Validation Provide Limited Evidence of Construct Validity. Retrieved from <osf.io/preprints/psyarxiv/2q49t_v4>
 
 
